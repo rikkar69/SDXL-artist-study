@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
+{% assign letter = 'T' %}
+<div class="alphabet-nav">
+    <a href="{{ site.baseurl }}/index.html">All</a>
+    <a href="{{ site.baseurl }}/letters/A.html">A</a>
+    <a href="{{ site.baseurl }}/letters/B.html">B</a>
+    <a href="{{ site.baseurl }}/letters/C.html">C</a>
+    <a href="{{ site.baseurl }}/letters/D.html">D</a>
+    <a href="{{ site.baseurl }}/letters/E.html">E</a>
+    <a href="{{ site.baseurl }}/letters/F.html">F</a>
+    <a href="{{ site.baseurl }}/letters/G.html">G</a>
+    <a href="{{ site.baseurl }}/letters/H.html">H</a>
+    <a href="{{ site.baseurl }}/letters/I.html">I</a>
+    <a href="{{ site.baseurl }}/letters/J.html">J</a>
+    <a href="{{ site.baseurl }}/letters/K.html">K</a>
+    <a href="{{ site.baseurl }}/letters/L.html">L</a>
+    <a href="{{ site.baseurl }}/letters/M.html">M</a>
+    <a href="{{ site.baseurl }}/letters/N.html">N</a>
+    <a href="{{ site.baseurl }}/letters/O.html">O</a>
+    <a href="{{ site.baseurl }}/letters/P.html">P</a>
+    <a href="{{ site.baseurl }}/letters/Q.html">Q</a>
+    <a href="{{ site.baseurl }}/letters/R.html">R</a>
+    <a href="{{ site.baseurl }}/letters/S.html">S</a>
+    <a href="{{ site.baseurl }}/letters/T.html">T</a>
+    <a href="{{ site.baseurl }}/letters/U.html">U</a>
+    <a href="{{ site.baseurl }}/letters/V.html">V</a>
+    <a href="{{ site.baseurl }}/letters/W.html">W</a>
+    <a href="{{ site.baseurl }}/letters/X.html">X</a>
+    <a href="{{ site.baseurl }}/letters/Y.html">Y</a>
+    <a href="{{ site.baseurl }}/letters/Z.html">Z</a>
+</div>
+
+<h2>{{ letter }}</h2>
+
+<div class="grid">
+    {% for image in site.static_files %}
+        {% assign filename = image.name | remove: '.jpg' %}
+        {% assign first_char = filename | slice: 0 | upcase %}
+        {% if image.path contains 'images' and first_char == letter %}
+            <div>
+                <p>{{ filename }}</p>
+                <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+    
+    <script>
+    document.querySelectorAll('.grid img').forEach(function(img) {
+        img.addEventListener('click', function() {
+            var expanded = document.createElement('div');
+            expanded.classList.add('expanded');
+            var bigImg = document.createElement('img');
+            bigImg.src = img.src;
+            expanded.appendChild(bigImg);
+            document.body.appendChild(expanded);
+            expanded.addEventListener('click', function() {
+                expanded.remove();
+            });
+        });
+    });
+    </script>
