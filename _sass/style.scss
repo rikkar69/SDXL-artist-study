@@ -1,5 +1,11 @@
 // @import "minima/minima";
-// $content-width: 100%;
+$content-width:    100% !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+$on-medium:        $on-palm !default;
+$on-large:         $on-laptop !default;
 
 .grid {
     display: grid;
