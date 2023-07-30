@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SDXL Artist Study
+title: SDXL 1.0 Artist Study
 #email: your-email@example.com
 description: "This website was created using the dataset uploaded to HuggingFace by 'newsletter' https://huggingface.co/datasets/newsletter/SDXL-Artists"
 baseurl: "/SDXL-artist-study" # the subpath of your site, e.g. /blog
@@ -30,6 +30,8 @@ github_username:  rikkar69
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.

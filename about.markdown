@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I generated this artist study to document what artist styles were trained in SDXL and which ones were capable of being reproduced. The images were generated with the following parameters:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+| Parameter             | Value                                         |
+|-----------------------|-----------------------------------------------|
+| Positive Prompt       | 'art by {artist}'                             |
+| Negative prompt       | 'ugly, poor quality'                          |
+| Image size            | 1024x1024                                     |
+| Steps (base model)    | 30                                            |
+| Steps (refiner model) | 15                                            |
+| Seed                  | 1                                             |
+| Hardware              | RTX 3090                                      |
+| Script                | Official Stable Diffusion dual model pipeline |
