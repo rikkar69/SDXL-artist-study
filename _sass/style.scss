@@ -6,7 +6,9 @@ $on-laptop:        100% !default;
 
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
-
+body {
+    width: $content-width;
+  }  
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
