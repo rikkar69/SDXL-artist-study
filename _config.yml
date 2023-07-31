@@ -20,7 +20,7 @@
 
 title: SDXL 1.0 Artist Study
 #email: your-email@example.com
-description: "This website was created using the dataset uploaded to HuggingFace by 'newsletter' https://huggingface.co/datasets/newsletter/SDXL-Artists"
+description: "Full image dataset available at https://github.com/rikkar69/SDXL-artist-study/tree/master/images"
 baseurl: "/SDXL-artist-study" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: socalpathy
