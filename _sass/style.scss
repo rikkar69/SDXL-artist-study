@@ -11,6 +11,11 @@ $on-large:         $on-laptop !default;
     padding-right: 30px;
     padding-left: 30px;
 }
+.intro-text {
+    font-size: 12px;
+    color: #111;
+    margin-bottom: 20px; /* Add some space between the text and the alphabet navigation */
+}
 body {
     width: $content-width;
   }  
