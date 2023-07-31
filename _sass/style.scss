@@ -6,6 +6,11 @@ $on-laptop:        100% !default;
 
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
+.wrapper {
+    max-width: 100%; // Override the max-width to allow the container to take up the full width
+    padding-right: 30px;
+    padding-left: 30px;
+}
 body {
     width: $content-width;
   }  
