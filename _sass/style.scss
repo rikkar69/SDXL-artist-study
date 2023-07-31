@@ -46,9 +46,61 @@ body {
     background-color: rgba(0, 0, 0, 0.8);
     z-index: 1000;
 }
+
+.image-container {
+    position: relative;
+    width: 85%; /* Adjust as needed */
+    height: 85%; /* Adjust as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .expanded img {
-    max-width: 90%;
-    max-height: 90%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.left-arrow,
+.right-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.left-arrow:hover,
+.right-arrow:hover {
+    opacity: 1;
+}
+
+.left-arrow {
+    left: 0; /* Adjust as needed */
+}
+
+.right-arrow {
+    right: 0; /* Adjust as needed */
+}
+.image-label {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    max-width: calc(100% - 20px);
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 .alphabet-nav {
     display: flex;
