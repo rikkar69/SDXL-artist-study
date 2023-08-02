@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Art Mediums
-permalink: /art-mediums/
+title: Film
+permalink: /film/
 ---
 
 <link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
@@ -9,17 +9,17 @@ permalink: /art-mediums/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <div class="intro-text">
-    Various art mediums. Prompted with '{medium} art of a woman'
+    Various camera film. Prompted with 'portrait photograph shot on {film}'
 </div>
 
 <div class="search-container">
-    <input type="text" id="search-bar" placeholder="Search for a medium..." onkeyup="searchArtist()">
+    <input type="text" id="search-bar" placeholder="Search for a film..." onkeyup="searchArtist()">
     <div id="search-results"></div>
 </div>
 
 <div class="grid">
     {% for image in site.static_files %}
-        {% if image.path contains '/styles/' %}
+        {% if image.path contains '/film/' %}
             <div id="{{ image.name | remove: '.jpg' }}">
                 <p onclick="copyToClipboard(this)">{{ image.name | remove: '.jpg' }}</p>
                 <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
