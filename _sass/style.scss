@@ -193,6 +193,9 @@ p:hover::after {
 #search-results div:hover {
     background-color: #f1f1f1;
 }
+.post-title {
+    font-size: 20px;
+  }  
 @media (max-width: 600px) {
     .grid {
         grid-template-columns: repeat(2, 1fr); /* 2 columns for screens smaller than 600px */

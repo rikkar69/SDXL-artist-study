@@ -1,0 +1,33 @@
+---
+layout: page
+title: Art Movements
+permalink: /art-movements/
+---
+
+<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<div class="intro-text">
+    Various art movements. Prompted with '{movement} art'
+</div>
+
+<div class="search-container">
+    <input type="text" id="search-bar" placeholder="Search for a movement..." onkeyup="searchArtist()">
+    <div id="search-results"></div>
+</div>
+
+<div class="grid">
+    {% for image in site.static_files %}
+        {% if image.path contains 'movements' %}
+            <div id="{{ image.name | remove: '.jpg' }}">
+                <p onclick="copyToClipboard(this)">{{ image.name | remove: '.jpg' }}</p>
+                <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<button id="back-to-top" onclick="scrollToTop()">↑</button>
+
+<script src="{{ '/assets/js/script.js' | relative_url }}"></script>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
+{% if jekyll.environment == "production" %}
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-R1C8CKFJZ5"></script>
 <script>
@@ -10,6 +11,7 @@
 
   gtag('config', 'G-R1C8CKFJZ5');
 </script>
+{% endif %}
 
   {%- include head.html -%}
 

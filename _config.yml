@@ -7,7 +7,7 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
+#JEKYLL_ENV=production jekyll build
 # If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
@@ -20,7 +20,7 @@
 
 title: SDXL 1.0 Artist Study
 #email: your-email@example.com
-description: "Full image dataset available at https://github.com/rikkar69/SDXL-artist-study/tree/master/images"
+description: "Latent exploration with SDXL"
 baseurl: "/SDXL-artist-study" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: socalpathy
@@ -32,7 +32,11 @@ plugins:
   - jekyll-feed
 minima:
   skin: dark
-
+header_pages:
+  - art-mediums.html
+  - art-movements.html
+  - cameras.html
+  - about.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
