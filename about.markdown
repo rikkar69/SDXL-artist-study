@@ -16,3 +16,8 @@ I generated this artist study to document what artist styles were trained in SDX
 | Seed                  | 1                                             |
 | Hardware              | RTX 3090                                      |
 | Script                | Official Stable Diffusion dual model pipeline |
+
+If you would like to contribute, that's awesome! I have set up a Google Sheet to add anything these studies are missing. Please use this link and I will be adding updates as soon as I'm able to.
+
+<a href="https://docs.google.com/spreadsheets/d/1zl4B-2Yv0i-geCI3js_iEPebNTSnAKTsksNaeynQdgI/edit?usp=sharing" target="_blank">SDXL Community Submissions</a>
+
