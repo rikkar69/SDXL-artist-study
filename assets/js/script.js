@@ -110,40 +110,28 @@ function scrollToTop() {
     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 
-function searchArtist() {
-    var input = document.getElementById('search-bar');
-    var filter = input.value.toUpperCase();
-    var resultsDiv = document.getElementById('search-results');
-    var gridDiv = document.querySelector('.grid');
-    resultsDiv.innerHTML = '';
-    resultsDiv.style.display = 'none';
-
-    if (filter.length < 3) return; // Only search if at least 3 characters are entered
-
-    var found = false;
-    gridDiv.querySelectorAll('div').forEach(function(div) {
-        var p = div.querySelector('p');
-        var artistName = p.innerText;
-        if (artistName.toUpperCase().indexOf(filter) > -1) {
-            found = true;
-            var resultDiv = document.createElement('div');
-            resultDiv.innerHTML = artistName;
-            resultDiv.onclick = function() {
-                resultsDiv.style.display = 'none';
-                scrollToArtist(artistName); // Scroll to the artist
-            };
-            resultsDiv.appendChild(resultDiv);
+    function searchArtist() {
+        var input = document.getElementById('search-bar').value.toLowerCase();
+        var gridDiv = document.querySelector('.grid');
+    
+        // Only proceed if at least 3 characters are entered
+        if (input.length < 3) {
+            // Show all artists if less than 3 characters are entered
+            gridDiv.querySelectorAll('div').forEach(function(div) {
+                div.style.display = 'block';
+            });
+            return;
         }
-    });
-
-    if (found) {
-        resultsDiv.style.display = 'block';
+    
+        gridDiv.querySelectorAll('div').forEach(function(div) {
+            var artistName = div.id.toLowerCase();
+            if (artistName.includes(input)) {
+                div.style.display = 'block';
+            } else {
+                div.style.display = 'none';
+            }
+        });
     }
-}
-
-function scrollToArtist(artistName) {
-    var artistDiv = document.getElementById(artistName);
-    if (artistDiv) {
-        artistDiv.scrollIntoView({ behavior: 'smooth' });
-    }
-}
+    
+    
+    

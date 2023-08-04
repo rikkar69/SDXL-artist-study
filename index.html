@@ -51,7 +51,7 @@ title: Artist Studies
         {% if image.path contains 'images' %}
             <div id="{{ image.name | remove: '.jpg' }}">
                 <p onclick="copyToClipboard(this)">{{ image.name | remove: '.jpg' }}</p>
-                <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
+                <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" loading="lazy">
             </div>
         {% endif %}
     {% endfor %}
