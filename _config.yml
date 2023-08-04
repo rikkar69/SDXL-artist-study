@@ -34,11 +34,12 @@ minima:
   skin: dark
 header_pages:
   - index.html
-  - art-mediums.html
-  - art-movements.html
-  - cameras.html
-  - film.html
+  - pages/art-mediums.html
+  - pages/art-movements.html
+  - pages/cameras.html
+  - pages/film.html
   - about.markdown
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
