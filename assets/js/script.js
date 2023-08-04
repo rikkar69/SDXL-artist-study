@@ -1,5 +1,6 @@
 var images = Array.from(document.querySelectorAll('.grid img'));
 
+//copy to clipboard and expanded image with navigation
 function copyToClipboard(element) {
     var text = element.textContent || element.innerText;
     navigator.clipboard.writeText(text);
@@ -96,6 +97,7 @@ function copyToClipboard(element) {
     //alert('Copied "' + text + '" to clipboard');
 }
 
+//scroll to top button
 window.onscroll = function() {
     var button = document.getElementById('back-to-top');
     if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
@@ -110,17 +112,18 @@ function scrollToTop() {
     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 
-    function searchArtist() {
-        var input = document.getElementById('search-bar').value.toLowerCase();
-        var gridDiv = document.querySelector('.grid');
+//filter results with search
+function searchArtist() {
+    var input = document.getElementById('search-bar').value.toLowerCase();
+    var gridDiv = document.querySelector('.grid');
     
         // Only proceed if at least 3 characters are entered
-        if (input.length < 3) {
+    if (input.length < 3) {
             // Show all artists if less than 3 characters are entered
-            gridDiv.querySelectorAll('div').forEach(function(div) {
-                div.style.display = 'block';
+        gridDiv.querySelectorAll('div').forEach(function(div) {
+             div.style.display = 'block';
             });
-            return;
+        return;
         }
     
         gridDiv.querySelectorAll('div').forEach(function(div) {
