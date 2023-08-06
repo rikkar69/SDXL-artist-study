@@ -195,6 +195,28 @@ p:hover::after {
 }
 .post-title {
     font-size: 20px;
+  }
+  .tag {
+    background-color: #c6c7c9; /* Button color */
+    border: none;
+    color: rgb(0, 0, 0); /* Text color */
+    padding: 5px 10px; /* Button padding */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px; /* Rounded corners */
+    transition-duration: 0.4s; /* Transition effect */
+  }
+  
+  .tag:hover {
+    background-color: #5990cf; /* Button color when hovered */
+    color: rgb(0, 0, 0); /* Text color when hovered */
+  }
+  .tag.active {
+    background-color: #5990cf; /* Change this to your preferred color */
   }  
 @media (max-width: 600px) {
     .grid {

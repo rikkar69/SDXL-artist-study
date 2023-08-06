@@ -1,0 +1,73 @@
+---
+layout: page
+title: Explore
+permalink: /tags/
+---
+
+<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<div class="intro-text">
+    Artists grouped by styles.
+</div>
+
+<!-- Generate tag buttons -->
+<div class="tags">
+  {% assign all_tags = "" | split: "" %}
+  {% for image in site.data.image_data %}
+    {% assign all_tags = all_tags | concat: image.tags %}
+  {% endfor %}
+  {% assign unique_tags = all_tags | uniq %}
+  {% assign tag_counts = "" | split: "" %}
+  {% for tag in unique_tags %}
+    {% assign tag_array = all_tags | where_exp: "item", "item == tag" %}
+    {% assign tag_count = tag_array | size %}
+    {% assign tag_counts = tag_counts | push: tag_count %}
+  {% endfor %}
+  {% assign sorted_tags = unique_tags | sort_natural %}
+  {% for tag in sorted_tags %}
+    {% assign tag_array = all_tags | where_exp: "item", "item == tag" %}
+    {% assign tag_count = tag_array | size %}
+    <button class="tag" data-tag="{{ tag }}">{{ tag | capitalize }} ({{ tag_count }})</button>
+  {% endfor %}
+</div>
+
+<!-- Generate image grid -->
+<div class="grid">
+    {% for image in site.data.image_data %}
+        <div class="image" data-tags="{{ image.tags | join: ',' }}">
+            <p onclick="copyToClipboard(this)">{{ image.artist }}</p>
+            <img src="{{ '/assets/images/sdxl1.0/artists/' | append: image.artist | append: '.jpg' | relative_url }}" alt="{{ image.artist }}" loading="lazy">
+        </div>
+    {% endfor %}
+</div>
+
+<button id="back-to-top" onclick="scrollToTop()">↑</button>
+
+<!-- Implement tag filtering -->
+<script>
+  document.querySelectorAll('.tag').forEach(function(button) {
+  button.addEventListener('click', function() {
+    // Remove 'active' class from all buttons
+    document.querySelectorAll('.tag').forEach(function(otherButton) {
+      otherButton.classList.remove('active');
+    });
+
+    // Add 'active' class to clicked button
+    this.classList.add('active');
+
+    var tag = this.dataset.tag;
+    document.querySelectorAll('.image').forEach(function(image) {
+      var tags = image.dataset.tags.split(',');
+      if (tags.includes(tag)) {
+        image.style.display = 'block';
+      } else {
+        image.style.display = 'none';
+      }
+    });
+  });
+});
+</script>
+
+<script src="{{ '/assets/js/script.js' | relative_url }}"></script>
