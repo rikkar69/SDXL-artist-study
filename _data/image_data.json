@@ -90,6 +90,12 @@
         ]
     },
     {
+        "artist": "Achille Calzi",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Adam Elsheimer",
         "tags": [
             "baroque"
@@ -120,7 +126,13 @@
         ]
     },
     {
-        "artist": "Adolf Hir\u00e9my-Hirschl",
+        "artist": "Adolf Frey-Moock",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
+        "artist": "Adolf Hirémy-Hirschl",
         "tags": [
             "realism"
         ]
@@ -141,6 +153,12 @@
         "artist": "Adonna Khare",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Adriaen Collaert",
+        "tags": [
+            "baroque"
         ]
     },
     {
@@ -198,6 +216,12 @@
         ]
     },
     {
+        "artist": "Adrienne Adams",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Afarin Sajedi",
         "tags": [
             "abstract"
@@ -246,7 +270,7 @@
         ]
     },
     {
-        "artist": "Agust\u00edn Fern\u00e1ndez",
+        "artist": "Agustín Fernández",
         "tags": [
             "abstract"
         ]
@@ -327,6 +351,12 @@
         "artist": "Alan Davis",
         "tags": [
             "comic"
+        ]
+    },
+    {
+        "artist": "Alan Gutierrez",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -414,6 +444,12 @@
         ]
     },
     {
+        "artist": "Albert Francis King",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Albert Gleizes",
         "tags": [
             "cubism"
@@ -453,6 +489,12 @@
         "artist": "Albert Marquet",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Albert Namatjira",
+        "tags": [
+            "landscape"
         ]
     },
     {
@@ -540,7 +582,7 @@
         ]
     },
     {
-        "artist": "Albrecht D\u00fcrer",
+        "artist": "Albrecht Dürer",
         "tags": [
             "renaissance"
         ]
@@ -828,7 +870,7 @@
         ]
     },
     {
-        "artist": "Alexandre-\u00c9variste Fragonard",
+        "artist": "Alexandre-Évariste Fragonard",
         "tags": [
             "rococo"
         ]
@@ -978,6 +1020,12 @@
         ]
     },
     {
+        "artist": "Alison Jay",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "Aliza Razell",
         "tags": [
             "abstract"
@@ -1026,6 +1074,12 @@
         ]
     },
     {
+        "artist": "Alphonse Bernoud",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Alphonse Mucha",
         "tags": [
             "art nouveau"
@@ -1056,7 +1110,7 @@
         ]
     },
     {
-        "artist": "Alvar Caw\u00e9n",
+        "artist": "Alvar Cawén",
         "tags": [
             "impressionism"
         ]
@@ -1065,6 +1119,12 @@
         "artist": "Alvin Langdon Coburn",
         "tags": [
             "photographer"
+        ]
+    },
+    {
+        "artist": "Alvin Lustig",
+        "tags": [
+            "modernism"
         ]
     },
     {
@@ -1164,7 +1224,7 @@
         ]
     },
     {
-        "artist": "Am\u00e9d\u00e9e Guillemin",
+        "artist": "Amédée Guillemin",
         "tags": [
             "landscape"
         ]
@@ -1206,12 +1266,6 @@
         ]
     },
     {
-        "artist": "Andre de Dienes",
-        "tags": [
-            "photographer"
-        ]
-    },
-    {
         "artist": "Andre Derain",
         "tags": [
             "fauvism"
@@ -1227,6 +1281,12 @@
         "artist": "Andre Norton",
         "tags": [
             "sci-fi"
+        ]
+    },
+    {
+        "artist": "Andre de Dienes",
+        "tags": [
+            "photographer"
         ]
     },
     {
@@ -1285,6 +1345,18 @@
     },
     {
         "artist": "Andrei Markin",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Andrei Sokolov",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
+        "artist": "Andrej Dugin",
         "tags": [
             "abstract"
         ]
@@ -1350,7 +1422,7 @@
         ]
     },
     {
-        "artist": "Andre\u0301i Arinouchkine",
+        "artist": "Andréi Arinouchkine",
         "tags": [
             "abstract"
         ]
@@ -1362,37 +1434,43 @@
         ]
     },
     {
+        "artist": "Andrzej Pągowski",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Andrzej Sykut",
         "tags": [
             "realism"
         ]
     },
     {
-        "artist": "Andr\u00e9 Kert\u00e9sz",
+        "artist": "André Kertész",
         "tags": [
             "photographer"
         ]
     },
     {
-        "artist": "Andr\u00e9 Leblanc",
+        "artist": "André Leblanc",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "Andr\u00e9 Lhote",
+        "artist": "André Lhote",
         "tags": [
             "cubism"
         ]
     },
     {
-        "artist": "Andr\u00e9 Masson",
+        "artist": "André Masson",
         "tags": [
             "surrealism"
         ]
     },
     {
-        "artist": "Andr\u00e9i Arinouchkine",
+        "artist": "Andréi Arinouchkine",
         "tags": [
             "impressionism"
         ]
@@ -1458,6 +1536,12 @@
         ]
     },
     {
+        "artist": "Anita Inverarity",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Anita Malfatti",
         "tags": [
             "expressionism"
@@ -1494,12 +1578,6 @@
         ]
     },
     {
-        "artist": "Anna and Elena Balbusso",
-        "tags": [
-            "illustration"
-        ]
-    },
-    {
         "artist": "Anna Bocek",
         "tags": [
             "abstract"
@@ -1515,6 +1593,12 @@
         "artist": "Anna Razumovskaya",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Anna and Elena Balbusso",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -1605,6 +1689,12 @@
         "artist": "Annie Soudain",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Annie Stegg",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -1746,7 +1836,7 @@
         ]
     },
     {
-        "artist": "Antoni Gaud\u00ed",
+        "artist": "Antoni Gaudí",
         "tags": [
             "modernism"
         ]
@@ -1860,6 +1950,12 @@
         ]
     },
     {
+        "artist": "Arleen Orshan",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Arman Manookian",
         "tags": [
             "impressionism"
@@ -1878,7 +1974,13 @@
         ]
     },
     {
-        "artist": "Arnold B\u00f6cklin",
+        "artist": "Arnold Armitage",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
+        "artist": "Arnold Böcklin",
         "tags": [
             "symbolism"
         ]
@@ -1917,6 +2019,12 @@
         "artist": "Arshile Gorky",
         "tags": [
             "abstract expressionism"
+        ]
+    },
+    {
+        "artist": "Arson Liu",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -1968,6 +2076,12 @@
         ]
     },
     {
+        "artist": "Arthur B. Davies",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Arthur Boyd",
         "tags": [
             "expressionism"
@@ -1992,9 +2106,21 @@
         ]
     },
     {
+        "artist": "Arthur Hacker",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Arthur Hughes",
         "tags": [
             "romanticism"
+        ]
+    },
+    {
+        "artist": "Arthur Kampf",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -2049,6 +2175,12 @@
         "artist": "Arthur Wardle",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Artuno Ricci",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -2160,6 +2292,12 @@
         ]
     },
     {
+        "artist": "Auguste Alfred Rubé",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Auguste Herbin",
         "tags": [
             "cubism"
@@ -2181,6 +2319,12 @@
         "artist": "Auguste Toulmouche",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Augustin Rouart",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -2214,7 +2358,7 @@
         ]
     },
     {
-        "artist": "Axel T\u00f6rneman",
+        "artist": "Axel Törneman",
         "tags": [
             "abstract"
         ]
@@ -2247,6 +2391,12 @@
         "artist": "Aykut Aydogdu",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Babs Tarr",
+        "tags": [
+            "comic"
         ]
     },
     {
@@ -2328,6 +2478,12 @@
         ]
     },
     {
+        "artist": "Barry Windsor-Smith",
+        "tags": [
+            "comic"
+        ]
+    },
+    {
         "artist": "Bart Sears",
         "tags": [
             "comic"
@@ -2340,7 +2496,13 @@
         ]
     },
     {
-        "artist": "Bartolom\u00e9 Esteban Murillo",
+        "artist": "Bartolomeo Veneto",
+        "tags": [
+            "renaissance"
+        ]
+    },
+    {
+        "artist": "Bartolomé Esteban Murillo",
         "tags": [
             "baroque"
         ]
@@ -2349,6 +2511,12 @@
         "artist": "Basil Gogos",
         "tags": [
             "horror"
+        ]
+    },
+    {
+        "artist": "Bason Chen",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -2478,7 +2646,7 @@
         ]
     },
     {
-        "artist": "Beno\u00eet-Hermogaste Molin",
+        "artist": "Benoît-Hermogaste Molin",
         "tags": [
             "impressionism"
         ]
@@ -2517,6 +2685,12 @@
         "artist": "Berndnaut Smilde",
         "tags": [
             "atmospheric"
+        ]
+    },
+    {
+        "artist": "Bernhard Pankok",
+        "tags": [
+            "expressionism"
         ]
     },
     {
@@ -2569,6 +2743,18 @@
     },
     {
         "artist": "Bettina Shaw-Lawrence",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Bettina von Arnim",
+        "tags": [
+            "romanticism"
+        ]
+    },
+    {
+        "artist": "Bezian Frédéric",
         "tags": [
             "abstract"
         ]
@@ -2634,6 +2820,12 @@
         ]
     },
     {
+        "artist": "Bill Mayer",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "Bill Medcalf",
         "tags": [
             "landscape"
@@ -2688,6 +2880,12 @@
         ]
     },
     {
+        "artist": "Bjorn Richter",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Blek le Rat",
         "tags": [
             "street art"
@@ -2724,6 +2922,24 @@
         ]
     },
     {
+        "artist": "Bob Layton",
+        "tags": [
+            "comic"
+        ]
+    },
+    {
+        "artist": "Bob Layzell",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
+        "artist": "Bob Peak",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "Bob Ringwood",
         "tags": [
             "realism"
@@ -2745,6 +2961,12 @@
         "artist": "Bojan Koturanovic",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Boleslaw Biegas",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -2796,7 +3018,19 @@
         ]
     },
     {
+        "artist": "Bralds Braldt",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Brandon Mably",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Brandon McConnell",
         "tags": [
             "abstract"
         ]
@@ -2808,7 +3042,7 @@
         ]
     },
     {
-        "artist": "Brassa\u00ef",
+        "artist": "Brassaï",
         "tags": [
             "photographer"
         ]
@@ -2827,6 +3061,12 @@
     },
     {
         "artist": "Brent Heighton",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Brett Breckon",
         "tags": [
             "abstract"
         ]
@@ -2940,7 +3180,7 @@
         ]
     },
     {
-        "artist": "Briton Rivi\u00e8re",
+        "artist": "Briton Rivière",
         "tags": [
             "romanticism"
         ]
@@ -2996,7 +3236,7 @@
     {
         "artist": "Bruce Nauman",
         "tags": [
-            "performance art"
+            "performance"
         ]
     },
     {
@@ -3036,6 +3276,12 @@
         ]
     },
     {
+        "artist": "Burne Hogarth",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "Burt Glinn",
         "tags": [
             "photographer"
@@ -3054,9 +3300,21 @@
         ]
     },
     {
-        "artist": "B\u00f8rge Bredenbekk",
+        "artist": "Børge Bredenbekk",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "C. G. Kratzenstein",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "CFA Voysey",
+        "tags": [
+            "arts and crafts"
         ]
     },
     {
@@ -3132,6 +3390,12 @@
         ]
     },
     {
+        "artist": "Cao Fei",
+        "tags": [
+            "multimedia"
+        ]
+    },
+    {
         "artist": "Caras Ionut",
         "tags": [
             "realism"
@@ -3159,6 +3423,12 @@
         "artist": "Carl Eugen Keel",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Carl Friedrich Heinrich Warner",
+        "tags": [
+            "romanticism"
         ]
     },
     {
@@ -3231,6 +3501,12 @@
         "artist": "Carlos Cruz-Diez",
         "tags": [
             "optical art"
+        ]
+    },
+    {
+        "artist": "Carlos Dearmas",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -3396,12 +3672,6 @@
         ]
     },
     {
-        "artist": "CFA Voysey",
-        "tags": [
-            "arts and crafts"
-        ]
-    },
-    {
         "artist": "Chad Knight",
         "tags": [
             "abstract"
@@ -3414,6 +3684,12 @@
         ]
     },
     {
+        "artist": "Charles Allan Winter",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Charles Angrand",
         "tags": [
             "impressionism"
@@ -3423,6 +3699,12 @@
         "artist": "Charles Blackman",
         "tags": [
             "surrealism"
+        ]
+    },
+    {
+        "artist": "Charles Buchanan",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -3480,6 +3762,12 @@
         ]
     },
     {
+        "artist": "Charles Folkard",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "Charles Ginner",
         "tags": [
             "impressionism"
@@ -3516,6 +3804,12 @@
         ]
     },
     {
+        "artist": "Charles Moll",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Charles Philipon",
         "tags": [
             "realism"
@@ -3531,6 +3825,12 @@
         "artist": "Charles Rennie Mackintosh",
         "tags": [
             "art nouveau"
+        ]
+    },
+    {
+        "artist": "Charles Ricketts",
+        "tags": [
+            "symbolism"
         ]
     },
     {
@@ -3558,6 +3858,18 @@
         ]
     },
     {
+        "artist": "Charles Sheeler",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
+        "artist": "Charles Showalter",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Charles Spencelayh",
         "tags": [
             "realism"
@@ -3567,6 +3879,12 @@
         "artist": "Charles Tunnicliffe",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Charles Urbach",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -3642,7 +3960,7 @@
         ]
     },
     {
-        "artist": "Cha\u00efm Soutine",
+        "artist": "Chaïm Soutine",
         "tags": [
             "expressionism"
         ]
@@ -3723,6 +4041,12 @@
         "artist": "Chris Dyer",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Chris Falkenberg",
+        "tags": [
+            "photographer"
         ]
     },
     {
@@ -3816,6 +4140,12 @@
         ]
     },
     {
+        "artist": "Chris-Anne Donnelly",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Christian Boltanski",
         "tags": [
             "installation"
@@ -3840,6 +4170,12 @@
         ]
     },
     {
+        "artist": "Christian Lassen",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Christian Schad",
         "tags": [
             "neue sachlichkeit"
@@ -3859,6 +4195,12 @@
     },
     {
         "artist": "Christine Ellger",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Christine Payne-Towler",
         "tags": [
             "abstract"
         ]
@@ -3996,7 +4338,7 @@
         ]
     },
     {
-        "artist": "Claude Lef\u00e8bvre",
+        "artist": "Claude Lefèbvre",
         "tags": [
             "impressionism"
         ]
@@ -4146,7 +4488,7 @@
         ]
     },
     {
-        "artist": "Conrad Felixm\u00fcller",
+        "artist": "Conrad Felixmüller",
         "tags": [
             "expressionism"
         ]
@@ -4191,6 +4533,12 @@
         "artist": "Cornelis Springer",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Cornelis van Dalem",
+        "tags": [
+            "renaissance"
         ]
     },
     {
@@ -4266,6 +4614,12 @@
         ]
     },
     {
+        "artist": "Cvijeta Job",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Cyril Pontet",
         "tags": [
             "abstract"
@@ -4275,6 +4629,12 @@
         "artist": "Cyril Rolando",
         "tags": [
             "illustration"
+        ]
+    },
+    {
+        "artist": "Cătălin Precup",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -4299,6 +4659,12 @@
         "artist": "Dale Chihuly",
         "tags": [
             "glassblowing"
+        ]
+    },
+    {
+        "artist": "Dame Laura Knight",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -4380,7 +4746,7 @@
         ]
     },
     {
-        "artist": "Danh V\u00f5",
+        "artist": "Danh Võ",
         "tags": [
             "installation"
         ]
@@ -4398,9 +4764,21 @@
         ]
     },
     {
+        "artist": "Daniel Chester French",
+        "tags": [
+            "sculpture"
+        ]
+    },
+    {
         "artist": "Daniel Clowes",
         "tags": [
             "comic"
+        ]
+    },
+    {
+        "artist": "Daniel Dociu",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -4527,6 +4905,12 @@
         "artist": "Dariusz Zawadzki",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Darrel Ellis",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -4662,6 +5046,12 @@
         ]
     },
     {
+        "artist": "David C. Sutherland",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "David Carson",
         "tags": [
             "graphic design"
@@ -4776,6 +5166,12 @@
         ]
     },
     {
+        "artist": "David Mario Palladini",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "David McClellan",
         "tags": [
             "abstract"
@@ -4812,6 +5208,12 @@
         ]
     },
     {
+        "artist": "David Pattee",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "David Plowden",
         "tags": [
             "photographer"
@@ -4819,6 +5221,18 @@
     },
     {
         "artist": "David Renshaw",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "David Roberts",
+        "tags": [
+            "romanticism"
+        ]
+    },
+    {
+        "artist": "David Schleinkofer",
         "tags": [
             "abstract"
         ]
@@ -4884,6 +5298,12 @@
         ]
     },
     {
+        "artist": "David Yan",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "David Yarrow",
         "tags": [
             "photographer"
@@ -4905,6 +5325,12 @@
         "artist": "Davidsz de Heem",
         "tags": [
             "baroque"
+        ]
+    },
+    {
+        "artist": "Dawid Kowanacki",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -4950,6 +5376,12 @@
         ]
     },
     {
+        "artist": "Debra and Dave Vanderlaan",
+        "tags": [
+            "photographer"
+        ]
+    },
+    {
         "artist": "Dee Nickerson",
         "tags": [
             "abstract"
@@ -4971,6 +5403,12 @@
         "artist": "Delphin Enjolras",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Denis Loubet",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -5004,9 +5442,21 @@
         ]
     },
     {
+        "artist": "Derek Riggs",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "Desmond Morris",
         "tags": [
             "surrealism"
+        ]
+    },
+    {
+        "artist": "Dexter Maurer",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -5028,13 +5478,19 @@
         ]
     },
     {
+        "artist": "Dick Giordano",
+        "tags": [
+            "comics"
+        ]
+    },
+    {
         "artist": "Didier Barra",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "Didier Louren\u00e7o",
+        "artist": "Didier Lourenço",
         "tags": [
             "realism"
         ]
@@ -5046,13 +5502,19 @@
         ]
     },
     {
+        "artist": "Diego Gisbert Llorens",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Diego Rivera",
         "tags": [
             "muralism"
         ]
     },
     {
-        "artist": "Diego Vel\u00e1zquez",
+        "artist": "Diego Velázquez",
         "tags": [
             "baroque"
         ]
@@ -5148,6 +5610,12 @@
         ]
     },
     {
+        "artist": "Don Heck",
+        "tags": [
+            "comic"
+        ]
+    },
+    {
         "artist": "Don Lawrence",
         "tags": [
             "comic"
@@ -5157,6 +5625,12 @@
         "artist": "Don Maitz",
         "tags": [
             "fantasy"
+        ]
+    },
+    {
+        "artist": "Don Martin",
+        "tags": [
+            "cartoonist"
         ]
     },
     {
@@ -5186,7 +5660,7 @@
     {
         "artist": "Donna Huanca",
         "tags": [
-            "performance art"
+            "performance"
         ]
     },
     {
@@ -5250,6 +5724,12 @@
         ]
     },
     {
+        "artist": "Doug Beekman",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Doug Bloodworth",
         "tags": [
             "abstract"
@@ -5268,6 +5748,12 @@
         ]
     },
     {
+        "artist": "Douglas Chaffee",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Douglas Smith",
         "tags": [
             "realism"
@@ -5280,6 +5766,12 @@
         ]
     },
     {
+        "artist": "Dragan Bibin",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Dragan Bibon",
         "tags": [
             "abstract"
@@ -5289,6 +5781,12 @@
         "artist": "Drew Struzan",
         "tags": [
             "illustration"
+        ]
+    },
+    {
+        "artist": "Duane Slick",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -5322,6 +5820,12 @@
         ]
     },
     {
+        "artist": "Dustin Weaver",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "Duy Huynh",
         "tags": [
             "abstract"
@@ -5337,6 +5841,12 @@
         "artist": "Eadweard Muybridge",
         "tags": [
             "photographer"
+        ]
+    },
+    {
+        "artist": "Earl Moran",
+        "tags": [
+            "pin-up"
         ]
     },
     {
@@ -5481,6 +5991,12 @@
         "artist": "Edmondo Senatore",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Edmund Blair Leighton",
+        "tags": [
+            "romanticism"
         ]
     },
     {
@@ -5652,7 +6168,7 @@
         ]
     },
     {
-        "artist": "Edward Oku\u0144",
+        "artist": "Edward Okuń",
         "tags": [
             "abstract"
         ]
@@ -5760,7 +6276,7 @@
         ]
     },
     {
-        "artist": "Einar H\u00e1konarson",
+        "artist": "Einar Hákonarson",
         "tags": [
             "realism"
         ]
@@ -5781,6 +6297,12 @@
         "artist": "El Anatsui",
         "tags": [
             "installation"
+        ]
+    },
+    {
+        "artist": "El Gato Gomez",
+        "tags": [
+            "pop art"
         ]
     },
     {
@@ -5838,7 +6360,7 @@
         ]
     },
     {
-        "artist": "Elfriede Lohse-W\u00e4chtler",
+        "artist": "Elfriede Lohse-Wächtler",
         "tags": [
             "expressionism"
         ]
@@ -5889,6 +6411,12 @@
         "artist": "Eliseu Visconti",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Elizabeth Breitweiser",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -6030,7 +6558,7 @@
         ]
     },
     {
-        "artist": "Emila Medkov\u00e1",
+        "artist": "Emila Medková",
         "tags": [
             "abstract"
         ]
@@ -6090,21 +6618,21 @@
         ]
     },
     {
-        "artist": "Emma R\u00edos",
+        "artist": "Emma Ríos",
         "tags": [
             "comic"
-        ]
-    },
-    {
-        "artist": "Emmanuel de Critz",
-        "tags": [
-            "baroque"
         ]
     },
     {
         "artist": "Emmanuel Shiu",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Emmanuel de Critz",
+        "tags": [
+            "baroque"
         ]
     },
     {
@@ -6138,7 +6666,13 @@
         ]
     },
     {
-        "artist": "Enrique T\u00e1bara",
+        "artist": "Enrique Tábara",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Enzo Minarro",
         "tags": [
             "abstract"
         ]
@@ -6147,6 +6681,12 @@
         "artist": "Ephraim Moses Lilien",
         "tags": [
             "symbolism"
+        ]
+    },
+    {
+        "artist": "Eric Brown",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -6171,6 +6711,18 @@
         "artist": "Eric Fischl",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Eric Gill",
+        "tags": [
+            "typography"
+        ]
+    },
+    {
+        "artist": "Eric Ravilious",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -6324,6 +6876,12 @@
         ]
     },
     {
+        "artist": "Esther Limones",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Esther Rolick",
         "tags": [
             "abstract"
@@ -6384,12 +6942,6 @@
         ]
     },
     {
-        "artist": "Eugene de Blaas",
-        "tags": [
-            "realism"
-        ]
-    },
-    {
         "artist": "Eugene Delacroix",
         "tags": [
             "romanticism"
@@ -6408,31 +6960,37 @@
         ]
     },
     {
+        "artist": "Eugene de Blaas",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Eugene von Guerard",
         "tags": [
             "landscape"
         ]
     },
     {
-        "artist": "Eug\u00e8ne Atget",
+        "artist": "Eugène Atget",
         "tags": [
             "photographer"
         ]
     },
     {
-        "artist": "Eug\u00e8ne Girardet",
+        "artist": "Eugène Girardet",
         "tags": [
             "landscape"
         ]
     },
     {
-        "artist": "Eug\u00e8ne Giraud",
+        "artist": "Eugène Giraud",
         "tags": [
             "impressionism"
         ]
     },
     {
-        "artist": "Eug\u00e8ne Grasset",
+        "artist": "Eugène Grasset",
         "tags": [
             "art nouveau"
         ]
@@ -6456,9 +7014,15 @@
         ]
     },
     {
-        "artist": "Eva \u0160vankmajerov\u00e1",
+        "artist": "Eva Švankmajerová",
         "tags": [
             "surrealism"
+        ]
+    },
+    {
+        "artist": "Evan Cagle",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -6516,7 +7080,7 @@
         ]
     },
     {
-        "artist": "Ewald R\u00fcbsamen",
+        "artist": "Ewald Rübsamen",
         "tags": [
             "expressionism"
         ]
@@ -6537,6 +7101,12 @@
         "artist": "F Scott Hess",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "F??lix Labisse",
+        "tags": [
+            "surrealism"
         ]
     },
     {
@@ -6606,6 +7176,12 @@
         ]
     },
     {
+        "artist": "Feeroozeh Golmohammadi",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Felice Casorati",
         "tags": [
             "realism"
@@ -6672,12 +7248,6 @@
         ]
     },
     {
-        "artist": "Ferdinand du Puigaudeau",
-        "tags": [
-            "impressionism"
-        ]
-    },
-    {
         "artist": "Ferdinand Hodler",
         "tags": [
             "symbolism"
@@ -6699,6 +7269,12 @@
         "artist": "Ferdinand Van Kessel",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Ferdinand du Puigaudeau",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -6792,6 +7368,12 @@
         ]
     },
     {
+        "artist": "Finn Matthews",
+        "tags": [
+            "folk art"
+        ]
+    },
+    {
         "artist": "Fintan Magee",
         "tags": [
             "street art"
@@ -6864,6 +7446,12 @@
         ]
     },
     {
+        "artist": "Francesc Català-Roca",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Francesca Woodman",
         "tags": [
             "photographer"
@@ -6888,6 +7476,12 @@
         ]
     },
     {
+        "artist": "Francesco Francavilla",
+        "tags": [
+            "comic"
+        ]
+    },
+    {
         "artist": "Francesco Guardi",
         "tags": [
             "rococo"
@@ -6897,6 +7491,12 @@
         "artist": "Francesco Hayez",
         "tags": [
             "romanticism"
+        ]
+    },
+    {
+        "artist": "Francesco Montelatici",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -6924,6 +7524,12 @@
         ]
     },
     {
+        "artist": "Francis Danby",
+        "tags": [
+            "romanticism"
+        ]
+    },
+    {
         "artist": "Francis Davis Millet",
         "tags": [
             "realism"
@@ -6948,21 +7554,21 @@
         ]
     },
     {
-        "artist": "Francisco de Zurbaran",
-        "tags": [
-            "baroque"
-        ]
-    },
-    {
         "artist": "Francisco Goya",
         "tags": [
             "romanticism"
         ]
     },
     {
-        "artist": "Francisco Mart\u00edn",
+        "artist": "Francisco Martín",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Francisco de Zurbaran",
+        "tags": [
+            "baroque"
         ]
     },
     {
@@ -6996,6 +7602,12 @@
         ]
     },
     {
+        "artist": "Frank Brunner",
+        "tags": [
+            "fantasy"
+        ]
+    },
+    {
         "artist": "Frank Cadogan Cowper",
         "tags": [
             "romanticism"
@@ -7020,9 +7632,21 @@
         ]
     },
     {
+        "artist": "Frank Godwin",
+        "tags": [
+            "cartoonist"
+        ]
+    },
+    {
         "artist": "Frank Holl",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Frank Kozik",
+        "tags": [
+            "pop art"
         ]
     },
     {
@@ -7104,13 +7728,13 @@
         ]
     },
     {
-        "artist": "Frans Francken the Younger",
+        "artist": "Frans Francken",
         "tags": [
             "baroque"
         ]
     },
     {
-        "artist": "Frans Francken",
+        "artist": "Frans Francken the Younger",
         "tags": [
             "baroque"
         ]
@@ -7134,7 +7758,13 @@
         ]
     },
     {
-        "artist": "Franti\u0161ek Dvo\u0159\u00e1k",
+        "artist": "František Dvořák",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
+        "artist": "Franz Altschuler",
         "tags": [
             "impressionism"
         ]
@@ -7149,6 +7779,12 @@
         "artist": "Franz Lefler",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Franz Ludwig Catel",
+        "tags": [
+            "romanticism"
         ]
     },
     {
@@ -7188,33 +7824,39 @@
         ]
     },
     {
-        "artist": "Fran\u00e7ois Boquet",
+        "artist": "François Boquet",
         "tags": [
             "impressionism"
         ]
     },
     {
-        "artist": "Fran\u00e7ois Boucher",
+        "artist": "François Boucher",
         "tags": [
             "rococo"
         ]
     },
     {
-        "artist": "Fran\u00e7ois De Nom\u00e9",
+        "artist": "François De Nomé",
         "tags": [
             "impressionism"
         ]
     },
     {
-        "artist": "Fran\u00e7ois Marcela-Froideval",
+        "artist": "François Marcela-Froideval",
         "tags": [
             "impressionism"
         ]
     },
     {
-        "artist": "Fran\u00e7oise Basset",
+        "artist": "Françoise Basset",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Françoise Gilot",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -7308,6 +7950,12 @@
         ]
     },
     {
+        "artist": "Frederick Sandys",
+        "tags": [
+            "pre-raphaelite"
+        ]
+    },
+    {
         "artist": "Frenchy",
         "tags": [
             "pop art"
@@ -7368,7 +8016,13 @@
         ]
     },
     {
-        "artist": "Fr\u00e9d\u00e9ric Fiebig",
+        "artist": "Fritz Scholder",
+        "tags": [
+            "pop art"
+        ]
+    },
+    {
+        "artist": "Frédéric Fiebig",
         "tags": [
             "abstract"
         ]
@@ -7392,19 +8046,13 @@
         ]
     },
     {
-        "artist": "F??lix Labisse",
-        "tags": [
-            "surrealism"
-        ]
-    },
-    {
         "artist": "G. Willow Wilson",
         "tags": [
             "comic"
         ]
     },
     {
-        "artist": "Gabriel B\u00e1",
+        "artist": "Gabriel Bá",
         "tags": [
             "comic"
         ]
@@ -7440,7 +8088,7 @@
         ]
     },
     {
-        "artist": "Gabriele M\u00fcnter",
+        "artist": "Gabriele Münter",
         "tags": [
             "expressionism"
         ]
@@ -7452,9 +8100,21 @@
         ]
     },
     {
+        "artist": "Gaetano Gandolfi",
+        "tags": [
+            "rococo"
+        ]
+    },
+    {
         "artist": "Gaetano Pesce",
         "tags": [
             "futurism"
+        ]
+    },
+    {
+        "artist": "Gage Taylor",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -7524,7 +8184,7 @@
         ]
     },
     {
-        "artist": "Gaston Bussi\u00e8re",
+        "artist": "Gaston Bussière",
         "tags": [
             "symbolism"
         ]
@@ -7776,6 +8436,18 @@
         ]
     },
     {
+        "artist": "George Morrison",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "George Oscar Greiner",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "George Pemba",
         "tags": [
             "realism"
@@ -7854,12 +8526,6 @@
         ]
     },
     {
-        "artist": "Georges de La Tour",
-        "tags": [
-            "baroque"
-        ]
-    },
-    {
         "artist": "Georges Gimel",
         "tags": [
             "impressionism"
@@ -7905,6 +8571,12 @@
         "artist": "Georges Seurat",
         "tags": [
             "pointillism"
+        ]
+    },
+    {
+        "artist": "Georges de La Tour",
+        "tags": [
+            "baroque"
         ]
     },
     {
@@ -7962,6 +8634,12 @@
         ]
     },
     {
+        "artist": "Gerardo Zaffino",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Gerd Arntz",
         "tags": [
             "graphic design"
@@ -8010,13 +8688,19 @@
         ]
     },
     {
+        "artist": "Germano Facetti",
+        "tags": [
+            "graphic design"
+        ]
+    },
+    {
         "artist": "Gertrude Abercrombie",
         "tags": [
             "surrealism"
         ]
     },
     {
-        "artist": "Gertrude K\u00e4sebier",
+        "artist": "Gertrude Käsebier",
         "tags": [
             "photographer"
         ]
@@ -8070,6 +8754,12 @@
         ]
     },
     {
+        "artist": "Gil Miret",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Gilbert Garcin",
         "tags": [
             "photomontage"
@@ -8088,7 +8778,7 @@
         ]
     },
     {
-        "artist": "Gilberto Hern\u00e1ndez Ortega",
+        "artist": "Gilberto Hernández Ortega",
         "tags": [
             "abstract"
         ]
@@ -8097,6 +8787,12 @@
         "artist": "Gilberto Soren Zaragoza",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Gino D'Achille",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -8190,12 +8886,6 @@
         ]
     },
     {
-        "artist": "Giovanni da Udina",
-        "tags": [
-            "renaissance"
-        ]
-    },
-    {
         "artist": "Giovanni Domenico Tiepolo",
         "tags": [
             "baroque"
@@ -8209,6 +8899,18 @@
     },
     {
         "artist": "Giovanni Segantini",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
+        "artist": "Giovanni da Udina",
+        "tags": [
+            "renaissance"
+        ]
+    },
+    {
+        "artist": "Gisbert Combaz",
         "tags": [
             "impressionism"
         ]
@@ -8448,6 +9150,12 @@
         ]
     },
     {
+        "artist": "Greta Schödl",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Grete Stern",
         "tags": [
             "photographer"
@@ -8472,13 +9180,13 @@
         ]
     },
     {
-        "artist": "Grzegorz Rosi\u0144ski",
+        "artist": "Grzegorz Rosiński",
         "tags": [
             "comic"
         ]
     },
     {
-        "artist": "Gr\u00e9goire Guillemin",
+        "artist": "Grégoire Guillemin",
         "tags": [
             "illustration"
         ]
@@ -8568,6 +9276,12 @@
         ]
     },
     {
+        "artist": "Gustav Kampmann",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Gustav Klimt",
         "tags": [
             "symbolism"
@@ -8604,7 +9318,7 @@
         ]
     },
     {
-        "artist": "Gustave Dor\u00e9",
+        "artist": "Gustave Doré",
         "tags": [
             "illustration"
         ]
@@ -8670,7 +9384,7 @@
         ]
     },
     {
-        "artist": "Gy\u00f6rgy Kepes",
+        "artist": "György Kepes",
         "tags": [
             "abstract"
         ]
@@ -8697,6 +9411,12 @@
         "artist": "H.P. Lovecraft",
         "tags": [
             "horror"
+        ]
+    },
+    {
+        "artist": "HUSH",
+        "tags": [
+            "street art"
         ]
     },
     {
@@ -8730,9 +9450,21 @@
         ]
     },
     {
+        "artist": "Hanna Hirsch-Pauli",
+        "tags": [
+            "expressionism"
+        ]
+    },
+    {
         "artist": "Hanna-Barbera",
         "tags": [
             "animation"
+        ]
+    },
+    {
+        "artist": "Hannah Elizabeth Fofana",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -8751,6 +9483,12 @@
         "artist": "Hannah Yata",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Hannes Bok",
+        "tags": [
+            "fantasy"
         ]
     },
     {
@@ -8832,7 +9570,19 @@
         ]
     },
     {
+        "artist": "Hans Schuttenbeld",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Hans Thoma",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
+        "artist": "Hans Zatzka",
         "tags": [
             "realism"
         ]
@@ -8841,12 +9591,6 @@
         "artist": "Hans von Aachen",
         "tags": [
             "baroque"
-        ]
-    },
-    {
-        "artist": "Hans Zatzka",
-        "tags": [
-            "realism"
         ]
     },
     {
@@ -8940,6 +9684,18 @@
         ]
     },
     {
+        "artist": "Harry Ekman",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
+        "artist": "Harry Kane",
+        "tags": [
+            "unknown"
+        ]
+    },
+    {
         "artist": "Harry Kingsley",
         "tags": [
             "abstract"
@@ -9000,7 +9756,7 @@
         ]
     },
     {
-        "artist": "Hashimoto Gah\u014d",
+        "artist": "Hashimoto Gahō",
         "tags": [
             "ukiyo-e"
         ]
@@ -9126,6 +9882,12 @@
         ]
     },
     {
+        "artist": "Helen Hardin",
+        "tags": [
+            "native american"
+        ]
+    },
+    {
         "artist": "Helen Levitt",
         "tags": [
             "photographer"
@@ -9216,12 +9978,6 @@
         ]
     },
     {
-        "artist": "Henri de Toulouse-Lautrec",
-        "tags": [
-            "impressionism"
-        ]
-    },
-    {
         "artist": "Henri Fantin Latour",
         "tags": [
             "realism"
@@ -9235,6 +9991,12 @@
     },
     {
         "artist": "Henri Gascar",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
+        "artist": "Henri Harpignies",
         "tags": [
             "impressionism"
         ]
@@ -9278,7 +10040,13 @@
     {
         "artist": "Henri Rousseau",
         "tags": [
-            "na\u00efve art"
+            "naïve art"
+        ]
+    },
+    {
+        "artist": "Henri de Toulouse-Lautrec",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -9300,7 +10068,7 @@
         ]
     },
     {
-        "artist": "Henri\u00ebtte Ronner-Knip",
+        "artist": "Henriëtte Ronner-Knip",
         "tags": [
             "realism"
         ]
@@ -9402,7 +10170,7 @@
         ]
     },
     {
-        "artist": "Herg\u00e9",
+        "artist": "Hergé",
         "tags": [
             "comic"
         ]
@@ -9420,6 +10188,12 @@
         ]
     },
     {
+        "artist": "Hermann Burghart",
+        "tags": [
+            "expressionism"
+        ]
+    },
+    {
         "artist": "Hermann Herzog",
         "tags": [
             "landscape"
@@ -9432,7 +10206,7 @@
         ]
     },
     {
-        "artist": "Herv\u00e9 Guibert",
+        "artist": "Hervé Guibert",
         "tags": [
             "photographer"
         ]
@@ -9471,6 +10245,24 @@
         "artist": "Hikari Shimoda",
         "tags": [
             "surrealism"
+        ]
+    },
+    {
+        "artist": "Hilary Purnamasari",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Hilda Hechle",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Hildegard von Bingen",
+        "tags": [
+            "medieval"
         ]
     },
     {
@@ -9540,6 +10332,12 @@
         ]
     },
     {
+        "artist": "Hiroyuki Katou",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Hiroyuki-Mitsume Takahashi",
         "tags": [
             "abstract"
@@ -9558,7 +10356,7 @@
         ]
     },
     {
-        "artist": "Honor\u00e9 Daumier",
+        "artist": "Honoré Daumier",
         "tags": [
             "realism"
         ]
@@ -9690,6 +10488,12 @@
         ]
     },
     {
+        "artist": "Hugh Fleming",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Hugh Kretschmer",
         "tags": [
             "photographer"
@@ -9705,12 +10509,6 @@
         "artist": "Hugues Merle",
         "tags": [
             "impressionism"
-        ]
-    },
-    {
-        "artist": "HUSH",
-        "tags": [
-            "street art"
         ]
     },
     {
@@ -9762,7 +10560,7 @@
         ]
     },
     {
-        "artist": "Iber\u00ea Camargo",
+        "artist": "Iberê Camargo",
         "tags": [
             "abstract"
         ]
@@ -9805,6 +10603,12 @@
     },
     {
         "artist": "Ihor Podolchak",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Ikeda Toshihiko",
         "tags": [
             "abstract"
         ]
@@ -9936,7 +10740,7 @@
         ]
     },
     {
-        "artist": "Isaac Gr\u00fcnewald",
+        "artist": "Isaac Grünewald",
         "tags": [
             "expressionism"
         ]
@@ -10056,6 +10860,12 @@
         ]
     },
     {
+        "artist": "J. C. Martinez",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "J. G. Jones",
         "tags": [
             "comic"
@@ -10095,6 +10905,12 @@
         "artist": "Jack Butler Yeats",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Jack Coggins",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -10212,6 +11028,12 @@
         ]
     },
     {
+        "artist": "Jacques Jonghelinck",
+        "tags": [
+            "flemish"
+        ]
+    },
+    {
         "artist": "Jacques Le Moyne",
         "tags": [
             "baroque"
@@ -10293,6 +11115,12 @@
         "artist": "James Abbott McNeill Whistler",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "James Barnor",
+        "tags": [
+            "photographer"
         ]
     },
     {
@@ -10440,6 +11268,12 @@
         ]
     },
     {
+        "artist": "Jamie Reid",
+        "tags": [
+            "punk"
+        ]
+    },
+    {
         "artist": "Jamil Molaeb",
         "tags": [
             "abstract"
@@ -10476,9 +11310,21 @@
         ]
     },
     {
+        "artist": "Jan Ditlev",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Jan Frans van Bloemen",
         "tags": [
             "landscape"
+        ]
+    },
+    {
+        "artist": "Jan Henryk de Rosen",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -10524,6 +11370,18 @@
         ]
     },
     {
+        "artist": "Jan Weenix",
+        "tags": [
+            "baroque"
+        ]
+    },
+    {
+        "artist": "Jan Wiegers",
+        "tags": [
+            "expressionism"
+        ]
+    },
+    {
         "artist": "Jan van Eyck",
         "tags": [
             "renaissance"
@@ -10551,18 +11409,6 @@
         "artist": "Jan van Scorel",
         "tags": [
             "renaissance"
-        ]
-    },
-    {
-        "artist": "Jan Weenix",
-        "tags": [
-            "baroque"
-        ]
-    },
-    {
-        "artist": "Jan Wiegers",
-        "tags": [
-            "expressionism"
         ]
     },
     {
@@ -10644,7 +11490,7 @@
         ]
     },
     {
-        "artist": "Jaros\u0142aw Ja\u015bnikowski",
+        "artist": "Jarosław Jaśnikowski",
         "tags": [
             "realism"
         ]
@@ -10665,12 +11511,6 @@
         "artist": "Jason Chan",
         "tags": [
             "illustration"
-        ]
-    },
-    {
-        "artist": "Jason deCaires Taylor",
-        "tags": [
-            "photographer"
         ]
     },
     {
@@ -10704,6 +11544,12 @@
         ]
     },
     {
+        "artist": "Jason deCaires Taylor",
+        "tags": [
+            "photographer"
+        ]
+    },
+    {
         "artist": "Jasper Francis Cropsey",
         "tags": [
             "landscape"
@@ -10719,6 +11565,18 @@
         "artist": "Jaume Plensa",
         "tags": [
             "sculpture"
+        ]
+    },
+    {
+        "artist": "Jaune Quick-to-See Smith",
+        "tags": [
+            "contemporary"
+        ]
+    },
+    {
+        "artist": "Javier Botet",
+        "tags": [
+            "surrealism"
         ]
     },
     {
@@ -10761,6 +11619,12 @@
         "artist": "Jean Bourdichon",
         "tags": [
             "illumination"
+        ]
+    },
+    {
+        "artist": "Jean Béraud",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -10824,6 +11688,12 @@
         ]
     },
     {
+        "artist": "Jean Mignon",
+        "tags": [
+            "renaissance"
+        ]
+    },
+    {
         "artist": "Jean Nouvel",
         "tags": [
             "modernism"
@@ -10836,7 +11706,7 @@
         ]
     },
     {
-        "artist": "Jean-Andr\u00e9 Rixens",
+        "artist": "Jean-André Rixens",
         "tags": [
             "impressionism"
         ]
@@ -10890,7 +11760,7 @@
         ]
     },
     {
-        "artist": "Jean-L\u00e9on G\u00e9r\u00f4me",
+        "artist": "Jean-Léon Gérôme",
         "tags": [
             "realism"
         ]
@@ -11016,19 +11886,31 @@
         ]
     },
     {
+        "artist": "Jeffrey Gibson",
+        "tags": [
+            "contemporary"
+        ]
+    },
+    {
+        "artist": "Jeffrey Ridge",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Jeffrey Smart",
         "tags": [
             "realism"
         ]
     },
     {
-        "artist": "Jeffrey Smith art",
+        "artist": "Jeffrey Smith",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "Jeffrey Smith",
+        "artist": "Jeffrey Smith art",
         "tags": [
             "abstract"
         ]
@@ -11100,6 +11982,12 @@
         ]
     },
     {
+        "artist": "Jerome Podwil",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Jerry Pinkney",
         "tags": [
             "illustration"
@@ -11160,7 +12048,7 @@
         ]
     },
     {
-        "artist": "Jes\u00fas Meneses del Barco",
+        "artist": "Jesús Meneses del Barco",
         "tags": [
             "abstract"
         ]
@@ -11280,7 +12168,7 @@
         ]
     },
     {
-        "artist": "Joan Mir\u00f3",
+        "artist": "Joan Miró",
         "tags": [
             "surrealism"
         ]
@@ -11322,7 +12210,7 @@
         ]
     },
     {
-        "artist": "Joaqu\u00edn Sorolla",
+        "artist": "Joaquín Sorolla",
         "tags": [
             "impressionism"
         ]
@@ -11379,6 +12267,12 @@
         "artist": "Joe Madureira",
         "tags": [
             "comic"
+        ]
+    },
+    {
+        "artist": "Joe Orlando",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -11460,9 +12354,27 @@
         ]
     },
     {
+        "artist": "Johann Friedrich Morgenstern",
+        "tags": [
+            "romanticism"
+        ]
+    },
+    {
+        "artist": "Johann Wolfgang Baumgartner",
+        "tags": [
+            "baroque"
+        ]
+    },
+    {
         "artist": "Johann Wolfgang von Goethe",
         "tags": [
             "romanticism"
+        ]
+    },
+    {
+        "artist": "Johanna Basford",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -11664,6 +12576,12 @@
         ]
     },
     {
+        "artist": "John Heseltine",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "John Higgins",
         "tags": [
             "realism"
@@ -11844,6 +12762,12 @@
         ]
     },
     {
+        "artist": "John Simmons",
+        "tags": [
+            "unknown"
+        ]
+    },
+    {
         "artist": "John Singer Sargent",
         "tags": [
             "realism"
@@ -11865,6 +12789,12 @@
         "artist": "John Stezaker",
         "tags": [
             "collage"
+        ]
+    },
+    {
+        "artist": "John Stone",
+        "tags": [
+            "unknown"
         ]
     },
     {
@@ -12078,6 +13008,12 @@
         ]
     },
     {
+        "artist": "Josef Diveky",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Josef Gassler",
         "tags": [
             "impressionism"
@@ -12087,6 +13023,18 @@
         "artist": "Josef Kote",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Josep Puig i Cadafalch",
+        "tags": [
+            "modernism"
+        ]
+    },
+    {
+        "artist": "Joseph Beuys",
+        "tags": [
+            "conceptual"
         ]
     },
     {
@@ -12180,19 +13128,19 @@
         ]
     },
     {
-        "artist": "Jos\u00e9 Clemente Orozco",
+        "artist": "José Clemente Orozco",
         "tags": [
             "muralism"
         ]
     },
     {
-        "artist": "Jos\u00e9 Garnelo",
+        "artist": "José Garnelo",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "Jos\u00e9 Ladr\u00f6nn",
+        "artist": "José Ladrönn",
         "tags": [
             "abstract"
         ]
@@ -12222,19 +13170,19 @@
         ]
     },
     {
-        "artist": "Jo\u00e3o Artur da Silva",
+        "artist": "João Artur da Silva",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "Juan Carre\u00f1o de Miranda",
+        "artist": "Juan Carreño de Miranda",
         "tags": [
             "baroque"
         ]
     },
     {
-        "artist": "Juan Gim\u00e9nez",
+        "artist": "Juan Giménez",
         "tags": [
             "comic"
         ]
@@ -12282,6 +13230,12 @@
         ]
     },
     {
+        "artist": "Jules Lefebvre",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Jules Olitski",
         "tags": [
             "abstract"
@@ -12291,6 +13245,18 @@
         "artist": "Jules Tavernier",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Jules Verne",
+        "tags": [
+            "fiction"
+        ]
+    },
+    {
+        "artist": "Jules-Joseph Lefebvre",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -12354,6 +13320,18 @@
         ]
     },
     {
+        "artist": "Julie Buffalohead",
+        "tags": [
+            "native american"
+        ]
+    },
+    {
+        "artist": "Julie Dillon",
+        "tags": [
+            "fantasy"
+        ]
+    },
+    {
         "artist": "Julie Mehretu",
         "tags": [
             "abstract"
@@ -12384,6 +13362,12 @@
         ]
     },
     {
+        "artist": "Julius Caesar Ibbetson",
+        "tags": [
+            "unknown"
+        ]
+    },
+    {
         "artist": "Julius Horsthuis",
         "tags": [
             "digital art"
@@ -12397,6 +13381,12 @@
     },
     {
         "artist": "Jun Kaneko",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Jun Makita",
         "tags": [
             "abstract"
         ]
@@ -12462,13 +13452,13 @@
         ]
     },
     {
-        "artist": "J\u00f3zef Mehoffer",
+        "artist": "Józef Mehoffer",
         "tags": [
             "symbolism"
         ]
     },
     {
-        "artist": "J\u00f3zsef Rippl-R\u00f3nai",
+        "artist": "József Rippl-Rónai",
         "tags": [
             "impressionism"
         ]
@@ -12501,6 +13491,12 @@
         "artist": "Kaja Foglio",
         "tags": [
             "fantasy"
+        ]
+    },
+    {
+        "artist": "Kamimura Kazuo",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -12552,6 +13548,12 @@
         ]
     },
     {
+        "artist": "Karl Ferdinand Sohn",
+        "tags": [
+            "romanticism"
+        ]
+    },
+    {
         "artist": "Karl Friedrich Schinkel",
         "tags": [
             "romanticism"
@@ -12588,6 +13590,12 @@
         ]
     },
     {
+        "artist": "Karl Wilhelm Diefenbach",
+        "tags": [
+            "symbolism"
+        ]
+    },
+    {
         "artist": "Karl Zerbe",
         "tags": [
             "abstract"
@@ -12609,6 +13617,12 @@
         "artist": "Kasia Nowowiejska",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Kate Baylay",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -12672,7 +13686,7 @@
         ]
     },
     {
-        "artist": "Katsushika \u014ci",
+        "artist": "Katsushika Ōi",
         "tags": [
             "ukiyo-e"
         ]
@@ -12690,7 +13704,7 @@
         ]
     },
     {
-        "artist": "Kawanabe Ky\u014dsai",
+        "artist": "Kawanabe Kyōsai",
         "tags": [
             "ukiyo-e"
         ]
@@ -12714,7 +13728,13 @@
         ]
     },
     {
-        "artist": "Kazimierz D\u0105browski",
+        "artist": "Kay WalkingStick",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Kazimierz Dąbrowski",
         "tags": [
             "realism"
         ]
@@ -12735,6 +13755,12 @@
         "artist": "Kazuki Takamatsu",
         "tags": [
             "pop surrealism"
+        ]
+    },
+    {
+        "artist": "Kazumasa Uchio",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -12870,6 +13896,12 @@
         ]
     },
     {
+        "artist": "Kenneth Barr",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Kenneth Noland",
         "tags": [
             "abstract"
@@ -12891,6 +13923,12 @@
         "artist": "Kenro Izu",
         "tags": [
             "photographer"
+        ]
+    },
+    {
+        "artist": "Kent Bash",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -12960,6 +13998,12 @@
         ]
     },
     {
+        "artist": "KiNo",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Kieran Yanner",
         "tags": [
             "illustration"
@@ -13002,7 +14046,7 @@
         ]
     },
     {
-        "artist": "KiNo",
+        "artist": "Kimiyo Mishima",
         "tags": [
             "abstract"
         ]
@@ -13038,7 +14082,7 @@
         ]
     },
     {
-        "artist": "Kiyoji \u014ctsuji",
+        "artist": "Kiyoji Ōtsuji",
         "tags": [
             "abstract"
         ]
@@ -13080,9 +14124,15 @@
         ]
     },
     {
-        "artist": "Konrad M\u00e4gi",
+        "artist": "Konrad Mägi",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Konstantin Korobov",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -13170,6 +14220,12 @@
         ]
     },
     {
+        "artist": "Kun Vic",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Kunio Okawara",
         "tags": [
             "manga"
@@ -13236,7 +14292,7 @@
         ]
     },
     {
-        "artist": "K\u014dji Morimoto",
+        "artist": "Kōji Morimoto",
         "tags": [
             "animation"
         ]
@@ -13305,6 +14361,12 @@
         "artist": "Lasar Segall",
         "tags": [
             "expressionism"
+        ]
+    },
+    {
+        "artist": "Laura Knight",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -13380,7 +14442,13 @@
         ]
     },
     {
-        "artist": "Leander Engstr\u00f6m",
+        "artist": "LeRoy Neiman",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
+        "artist": "Leander Engström",
         "tags": [
             "abstract"
         ]
@@ -13470,6 +14538,12 @@
         ]
     },
     {
+        "artist": "Leo Sawaki",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Leon Kossoff",
         "tags": [
             "expressionism"
@@ -13485,6 +14559,12 @@
         "artist": "Leonard Baskin",
         "tags": [
             "sculpture"
+        ]
+    },
+    {
+        "artist": "Leonard Koscianski",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -13521,12 +14601,6 @@
         "artist": "Leonora Carrington",
         "tags": [
             "surrealism"
-        ]
-    },
-    {
-        "artist": "LeRoy Neiman",
-        "tags": [
-            "realism"
         ]
     },
     {
@@ -13626,6 +14700,18 @@
         ]
     },
     {
+        "artist": "Lilian Stannard",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
+        "artist": "Lilian Thomas Burwell",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Lilla Cabot Perry",
         "tags": [
             "impressionism"
@@ -13638,15 +14724,15 @@
         ]
     },
     {
-        "artist": "Linnea Strid",
+        "artist": "Lily Seika Jones",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "liquidcoco\u674e\u594e\u5fb7",
+        "artist": "Linnea Strid",
         "tags": [
-            "illustration"
+            "abstract"
         ]
     },
     {
@@ -13698,6 +14784,18 @@
         ]
     },
     {
+        "artist": "Lluís Domènech i Montaner",
+        "tags": [
+            "modernism"
+        ]
+    },
+    {
+        "artist": "Lluís Rigalt i Farriols",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Lois Greenfield",
         "tags": [
             "photographer"
@@ -13722,7 +14820,7 @@
         ]
     },
     {
-        "artist": "Lorena Alvarez G\u00f3mez",
+        "artist": "Lorena Alvarez Gómez",
         "tags": [
             "abstract"
         ]
@@ -13854,7 +14952,7 @@
         ]
     },
     {
-        "artist": "Louis-L\u00e9opold Boily",
+        "artist": "Louis-Léopold Boily",
         "tags": [
             "realism"
         ]
@@ -13890,25 +14988,25 @@
         ]
     },
     {
-        "artist": "Luca della Robbia",
-        "tags": [
-            "sculpture"
-        ]
-    },
-    {
         "artist": "Luca Giordano",
         "tags": [
             "baroque"
         ]
     },
     {
-        "artist": "Lucas Cranach the Younger",
+        "artist": "Luca della Robbia",
+        "tags": [
+            "sculpture"
+        ]
+    },
+    {
+        "artist": "Lucas Cranach",
         "tags": [
             "renaissance"
         ]
     },
     {
-        "artist": "Lucas Cranach",
+        "artist": "Lucas Cranach the Younger",
         "tags": [
             "renaissance"
         ]
@@ -13938,6 +15036,12 @@
         ]
     },
     {
+        "artist": "Lucio Parrillo",
+        "tags": [
+            "fantasy"
+        ]
+    },
+    {
         "artist": "Lucy Glendinning",
         "tags": [
             "abstract"
@@ -13953,6 +15057,18 @@
         "artist": "Lucy Madox Brown",
         "tags": [
             "romanticism"
+        ]
+    },
+    {
+        "artist": "Ludvig Munthe",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
+        "artist": "Ludwig Deutsch",
+        "tags": [
+            "orientalism"
         ]
     },
     {
@@ -14058,15 +15174,21 @@
         ]
     },
     {
-        "artist": "L\u00e1szl\u00f3 Moholy-Nagy",
+        "artist": "László Moholy-Nagy",
         "tags": [
             "constructivism"
         ]
     },
     {
-        "artist": "L\u00e9on Bakst",
+        "artist": "Léon Bakst",
         "tags": [
             "art nouveau"
+        ]
+    },
+    {
+        "artist": "M. Hamilton Hill",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -14088,6 +15210,12 @@
         ]
     },
     {
+        "artist": "Maeda Masao",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Magali Villeneuve",
         "tags": [
             "illustration"
@@ -14103,6 +15231,12 @@
         "artist": "Maggie Laubser",
         "tags": [
             "expressionism"
+        ]
+    },
+    {
+        "artist": "Maggie Vandewalle",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -14148,6 +15282,12 @@
         ]
     },
     {
+        "artist": "Maksymilian Novak-Zempliński",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Malcolm Howie",
         "tags": [
             "abstract"
@@ -14166,9 +15306,15 @@
         ]
     },
     {
-        "artist": "Malick Sidib\u00e9",
+        "artist": "Malick Sidibé",
         "tags": [
             "photographer"
+        ]
+    },
+    {
+        "artist": "Malika Favre",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -14223,6 +15369,12 @@
         "artist": "Marat Safin",
         "tags": [
             "photographer"
+        ]
+    },
+    {
+        "artist": "Marc Aspinall",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -14305,6 +15457,12 @@
     },
     {
         "artist": "Marcin Jakubowski",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Marcin Kolpanowicz",
         "tags": [
             "abstract"
         ]
@@ -14406,9 +15564,21 @@
         ]
     },
     {
+        "artist": "Maria Prymachenko",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Maria Sibylla Merian",
         "tags": [
             "naturalism"
+        ]
+    },
+    {
+        "artist": "Marian Wawrzeniecki",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -14472,7 +15642,7 @@
         ]
     },
     {
-        "artist": "Marie-Th\u00e9r\u00e8se Auffray",
+        "artist": "Marie-Thérèse Auffray",
         "tags": [
             "impressionism"
         ]
@@ -14484,9 +15654,27 @@
         ]
     },
     {
-        "artist": "Marina Abramovi\u0107",
+        "artist": "Marina Abramović",
         "tags": [
             "performance"
+        ]
+    },
+    {
+        "artist": "Marina Bychkova",
+        "tags": [
+            "fantasy"
+        ]
+    },
+    {
+        "artist": "Mario Martinez",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Mario Sironi",
+        "tags": [
+            "futurism"
         ]
     },
     {
@@ -14497,6 +15685,12 @@
     },
     {
         "artist": "Mario Testino",
+        "tags": [
+            "photographer"
+        ]
+    },
+    {
+        "artist": "Marion Post Wolcott",
         "tags": [
             "photographer"
         ]
@@ -14670,6 +15864,12 @@
         ]
     },
     {
+        "artist": "Martin Bergquist",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Martin Creed",
         "tags": [
             "minimalism"
@@ -14772,7 +15972,7 @@
         ]
     },
     {
-        "artist": "Maruyama \u014ckyo",
+        "artist": "Maruyama Ōkyo",
         "tags": [
             "ukiyo-e"
         ]
@@ -14928,7 +16128,13 @@
         ]
     },
     {
-        "artist": "Matthias Gr\u00fcnewald",
+        "artist": "Matthew Wong",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
+        "artist": "Matthias Grünewald",
         "tags": [
             "renaissance"
         ]
@@ -14964,12 +16170,6 @@
         ]
     },
     {
-        "artist": "Maurice de Vlaminck",
-        "tags": [
-            "fauvism"
-        ]
-    },
-    {
         "artist": "Maurice Denis",
         "tags": [
             "post-impressionism"
@@ -14997,6 +16197,12 @@
         "artist": "Maurice Utrillo",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Maurice de Vlaminck",
+        "tags": [
+            "fauvism"
         ]
     },
     {
@@ -15234,6 +16440,12 @@
         ]
     },
     {
+        "artist": "Michael David Ward",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Michael Deforge",
         "tags": [
             "experimental"
@@ -15291,6 +16503,12 @@
         "artist": "Michael Komarck",
         "tags": [
             "fantasy"
+        ]
+    },
+    {
+        "artist": "Michael Kunze",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -15372,9 +16590,21 @@
         ]
     },
     {
+        "artist": "Michal Kus",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Michal Lisowski",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Michelangelo",
+        "tags": [
+            "renaissance"
         ]
     },
     {
@@ -15393,12 +16623,6 @@
         "artist": "Michelangelo Pistoletto",
         "tags": [
             "mirrorism"
-        ]
-    },
-    {
-        "artist": "Michelangelo",
-        "tags": [
-            "renaissance"
         ]
     },
     {
@@ -15441,6 +16665,12 @@
         "artist": "Mike Deodato",
         "tags": [
             "comic"
+        ]
+    },
+    {
+        "artist": "Mike Hinge",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -15540,9 +16770,27 @@
         ]
     },
     {
+        "artist": "Milivoj Husák",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Milivoj Ćeran",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Milo Manara",
         "tags": [
             "erotic"
+        ]
+    },
+    {
+        "artist": "Milt Kahl",
+        "tags": [
+            "animation"
         ]
     },
     {
@@ -15572,7 +16820,7 @@
     {
         "artist": "Mimmo Rotella",
         "tags": [
-            "décollage"
+            "decollage"
         ]
     },
     {
@@ -15594,7 +16842,7 @@
         ]
     },
     {
-        "artist": "Miroslav Tich\u00fd",
+        "artist": "Miroslav Tichý",
         "tags": [
             "photographer"
         ]
@@ -15654,7 +16902,7 @@
         ]
     },
     {
-        "artist": "Mons\u00f9 Desiderio",
+        "artist": "Monsù Desiderio",
         "tags": [
             "baroque"
         ]
@@ -15690,7 +16938,7 @@
         ]
     },
     {
-        "artist": "Mort K\u00fcnstler",
+        "artist": "Mort Künstler",
         "tags": [
             "realism"
         ]
@@ -15726,6 +16974,12 @@
         ]
     },
     {
+        "artist": "Murray Tinkleman",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Muxxi",
         "tags": [
             "pop art"
@@ -15750,9 +17004,27 @@
         ]
     },
     {
-        "artist": "M\u00e1rio Eloy",
+        "artist": "Mário Eloy",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "NC Wyeth",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
+        "artist": "ND Stevenson",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "NHK Animation",
+        "tags": [
+            "animation"
         ]
     },
     {
@@ -15771,6 +17043,12 @@
         "artist": "Nagel Patrick",
         "tags": [
             "pop art"
+        ]
+    },
+    {
+        "artist": "Nam June Paik",
+        "tags": [
+            "video art"
         ]
     },
     {
@@ -15864,15 +17142,9 @@
         ]
     },
     {
-        "artist": "NC Wyeth",
+        "artist": "Nathaniel Currier",
         "tags": [
-            "realism"
-        ]
-    },
-    {
-        "artist": "ND Stevenson",
-        "tags": [
-            "abstract"
+            "lithography"
         ]
     },
     {
@@ -15924,9 +17196,9 @@
         ]
     },
     {
-        "artist": "NHK Animation",
+        "artist": "Nettie M. Pitre",
         "tags": [
-            "animation"
+            "abstract"
         ]
     },
     {
@@ -15975,6 +17247,12 @@
         "artist": "Nick Knight",
         "tags": [
             "photographer"
+        ]
+    },
+    {
+        "artist": "Nick Pyle",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -16032,12 +17310,6 @@
         ]
     },
     {
-        "artist": "Nicolas de Stael",
-        "tags": [
-            "abstract"
-        ]
-    },
-    {
         "artist": "Nicolas Delort",
         "tags": [
             "illustration"
@@ -16053,6 +17325,18 @@
         "artist": "Nicolas Poussin",
         "tags": [
             "baroque"
+        ]
+    },
+    {
+        "artist": "Nicolas Weis",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Nicolas de Stael",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -16098,9 +17382,21 @@
         ]
     },
     {
+        "artist": "Nikolai Kolchitsky",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Nikolai Lockertsen",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Nikolaos Gyzis",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -16119,6 +17415,12 @@
         "artist": "Nils Hamm",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Nils von Dardel",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -16236,15 +17538,39 @@
         ]
     },
     {
+        "artist": "Norman Saunders",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
+        "artist": "Norman Wilfred Lewis",
+        "tags": [
+            "abstract expressionism"
+        ]
+    },
+    {
         "artist": "Norris Embry",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "Nusch \u00c9luard",
+        "artist": "Norval Morrisseau",
+        "tags": [
+            "indigenous"
+        ]
+    },
+    {
+        "artist": "Nusch Éluard",
         "tags": [
             "surrealism"
+        ]
+    },
+    {
+        "artist": "OSGEMEOS",
+        "tags": [
+            "graffiti"
         ]
     },
     {
@@ -16314,6 +17640,12 @@
         ]
     },
     {
+        "artist": "Oleksiy Golovchenko",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Oleksiy Rysyuk",
         "tags": [
             "abstract"
@@ -16323,6 +17655,24 @@
         "artist": "Olexandr Archipenko",
         "tags": [
             "cubism"
+        ]
+    },
+    {
+        "artist": "Olga Dugina",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Olga Dugina & Andrej Dugin",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Olga Esther",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -16356,15 +17706,15 @@
         ]
     },
     {
-        "artist": "Oliver Wetter",
+        "artist": "Oliver Odmark",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "Olivia de Berardinis",
+        "artist": "Oliver Wetter",
         "tags": [
-            "pin-up"
+            "abstract"
         ]
     },
     {
@@ -16374,15 +17724,15 @@
         ]
     },
     {
-        "artist": "Olivier Bonhomme",
+        "artist": "Olivia de Berardinis",
         "tags": [
-            "abstract"
+            "pin-up"
         ]
     },
     {
-        "artist": "Olivier de Sagazan",
+        "artist": "Olivier Bonhomme",
         "tags": [
-            "performance"
+            "abstract"
         ]
     },
     {
@@ -16395,6 +17745,12 @@
         "artist": "Olivier Valsecchi",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Olivier de Sagazan",
+        "tags": [
+            "performance"
         ]
     },
     {
@@ -16434,9 +17790,9 @@
         ]
     },
     {
-        "artist": "OSGEMEOS",
+        "artist": "Oscar Rejlander",
         "tags": [
-            "graffiti"
+            "photographer"
         ]
     },
     {
@@ -16449,6 +17805,12 @@
         "artist": "Oskar Schlemmer",
         "tags": [
             "bauhaus"
+        ]
+    },
+    {
+        "artist": "Osman Hamdi",
+        "tags": [
+            "orientalism"
         ]
     },
     {
@@ -16482,7 +17844,7 @@
         ]
     },
     {
-        "artist": "Otto M\u00fcller",
+        "artist": "Otto Müller",
         "tags": [
             "expressionism"
         ]
@@ -16494,9 +17856,27 @@
         ]
     },
     {
+        "artist": "Otto Schmidt",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Owlturd",
         "tags": [
             "cartoonist"
+        ]
+    },
+    {
+        "artist": "P. Craig Russell",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
+        "artist": "PJ Crook",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -16524,6 +17904,12 @@
         ]
     },
     {
+        "artist": "Pacino di Buonaguida",
+        "tags": [
+            "renaissance"
+        ]
+    },
+    {
         "artist": "Pam Hawkes",
         "tags": [
             "abstract"
@@ -16533,6 +17919,12 @@
         "artist": "Pamela Colman Smith",
         "tags": [
             "illustration"
+        ]
+    },
+    {
+        "artist": "Pamela Lee",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -16572,7 +17964,7 @@
         ]
     },
     {
-        "artist": "Pascal Blanch\u00e9",
+        "artist": "Pascal Blanché",
         "tags": [
             "digital art"
         ]
@@ -16662,6 +18054,12 @@
         ]
     },
     {
+        "artist": "Patrick O'Keefe",
+        "tags": [
+            "landscape"
+        ]
+    },
+    {
         "artist": "Patrick Woodroffe",
         "tags": [
             "illustration"
@@ -16716,7 +18114,7 @@
         ]
     },
     {
-        "artist": "Paul C\u00e9zanne",
+        "artist": "Paul Cézanne",
         "tags": [
             "post-impressionism"
         ]
@@ -16779,6 +18177,12 @@
         "artist": "Paul Lovering",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Paul Manship",
+        "tags": [
+            "sculpture"
         ]
     },
     {
@@ -16848,6 +18252,12 @@
         ]
     },
     {
+        "artist": "Paula Millet",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Paula Modersohn-Becker",
         "tags": [
             "impressionism"
@@ -16890,7 +18300,7 @@
         ]
     },
     {
-        "artist": "Peder Severin Kr\u00f8yer",
+        "artist": "Peder Severin Krøyer",
         "tags": [
             "impressionism"
         ]
@@ -16899,6 +18309,12 @@
         "artist": "Pedro Bell",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Pedro Friedeberg",
+        "tags": [
+            "surrealism"
         ]
     },
     {
@@ -16929,6 +18345,12 @@
         "artist": "Peregrine Heathcote",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Perry Allen",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -17010,6 +18432,12 @@
         ]
     },
     {
+        "artist": "Peter Driben",
+        "tags": [
+            "pin-up"
+        ]
+    },
+    {
         "artist": "Peter Eisenman",
         "tags": [
             "modernism"
@@ -17023,6 +18451,12 @@
     },
     {
         "artist": "Peter Gric",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Peter Gudynas",
         "tags": [
             "abstract"
         ]
@@ -17043,6 +18477,12 @@
         "artist": "Peter Kemp",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Peter Laird",
+        "tags": [
+            "comic"
         ]
     },
     {
@@ -17238,9 +18678,9 @@
         ]
     },
     {
-        "artist": "Philippe de Champaigne",
+        "artist": "Philippe Caza",
         "tags": [
-            "baroque"
+            "surrealism"
         ]
     },
     {
@@ -17262,6 +18702,12 @@
         ]
     },
     {
+        "artist": "Philippe de Champaigne",
+        "tags": [
+            "baroque"
+        ]
+    },
+    {
         "artist": "Phoebe Anna Traquair",
         "tags": [
             "symbolism"
@@ -17271,6 +18717,12 @@
         "artist": "Phyllida Barlow",
         "tags": [
             "sculpture"
+        ]
+    },
+    {
+        "artist": "PiNe(?????????)",
+        "tags": [
+            "pop art"
         ]
     },
     {
@@ -17334,6 +18786,12 @@
         ]
     },
     {
+        "artist": "Pierre-Henri de Valenciennes",
+        "tags": [
+            "landscape"
+        ]
+    },
+    {
         "artist": "Pierre-Mony Chan",
         "tags": [
             "abstract"
@@ -17370,12 +18828,6 @@
         ]
     },
     {
-        "artist": "Pieter de Hooch",
-        "tags": [
-            "genre"
-        ]
-    },
-    {
         "artist": "Pieter Hugo",
         "tags": [
             "photographer"
@@ -17391,6 +18843,12 @@
         "artist": "Pieter Nason",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Pieter de Hooch",
+        "tags": [
+            "genre"
         ]
     },
     {
@@ -17418,12 +18876,6 @@
         ]
     },
     {
-        "artist": "PiNe(?????????)",
-        "tags": [
-            "pop art"
-        ]
-    },
-    {
         "artist": "Pino Daeni",
         "tags": [
             "realism"
@@ -17436,7 +18888,7 @@
         ]
     },
     {
-        "artist": "Piotr Jab\u0142o\u0144ski",
+        "artist": "Piotr Jabłoński",
         "tags": [
             "realism"
         ]
@@ -17448,21 +18900,15 @@
         ]
     },
     {
-        "artist": "Pixar Concept Artists",
-        "tags": [
-            "animation"
-        ]
-    },
-    {
         "artist": "Pixar",
         "tags": [
             "animation"
         ]
     },
     {
-        "artist": "PJ Crook",
+        "artist": "Pixar Concept Artists",
         "tags": [
-            "illustration"
+            "animation"
         ]
     },
     {
@@ -17568,6 +19014,24 @@
         ]
     },
     {
+        "artist": "RETNA",
+        "tags": [
+            "graffiti"
+        ]
+    },
+    {
+        "artist": "RHADS",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "ROA",
+        "tags": [
+            "street art"
+        ]
+    },
+    {
         "artist": "Rachel Maclean",
         "tags": [
             "surrealism"
@@ -17592,13 +19056,19 @@
         ]
     },
     {
+        "artist": "Rafael Grampá",
+        "tags": [
+            "comic"
+        ]
+    },
+    {
         "artist": "Rafael Zabaleta",
         "tags": [
             "realism"
         ]
     },
     {
-        "artist": "Rafa\u0142 Olbi\u0144ski",
+        "artist": "Rafał Olbiński",
         "tags": [
             "surrealism"
         ]
@@ -17607,12 +19077,6 @@
         "artist": "Raffaello Sanizo",
         "tags": [
             "renaissance"
-        ]
-    },
-    {
-        "artist": "Raffaello Ossola",
-        "tags": [
-            "realism"
         ]
     },
     {
@@ -17694,6 +19158,12 @@
         ]
     },
     {
+        "artist": "Ran Akiyoshi",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Randal Spangler",
         "tags": [
             "abstract"
@@ -17730,6 +19200,12 @@
         ]
     },
     {
+        "artist": "Raphael",
+        "tags": [
+            "renaissance"
+        ]
+    },
+    {
         "artist": "Raphael Kirchner",
         "tags": [
             "art nouveau"
@@ -17745,12 +19221,6 @@
         "artist": "Raphael Soyer",
         "tags": [
             "realism"
-        ]
-    },
-    {
-        "artist": "Raphael",
-        "tags": [
-            "renaissance"
         ]
     },
     {
@@ -17868,9 +19338,21 @@
         ]
     },
     {
+        "artist": "Rebecca Yanovskaya",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Regina Valluzzi",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Reginald Marsh",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -17895,6 +19377,12 @@
         "artist": "Ren Hang",
         "tags": [
             "photographer"
+        ]
+    },
+    {
+        "artist": "Ren Tao",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -17928,27 +19416,21 @@
         ]
     },
     {
-        "artist": "Ren\u00e9 Lalique",
+        "artist": "René Lalique",
         "tags": [
             "art nouveau"
         ]
     },
     {
-        "artist": "Ren\u00e9 Laloux",
+        "artist": "René Laloux",
         "tags": [
             "animation"
         ]
     },
     {
-        "artist": "Ren\u00e9 Magritte",
+        "artist": "René Magritte",
         "tags": [
             "surrealism"
-        ]
-    },
-    {
-        "artist": "RETNA",
-        "tags": [
-            "graffiti"
         ]
     },
     {
@@ -17964,9 +19446,9 @@
         ]
     },
     {
-        "artist": "RHADS",
+        "artist": "Rhode Montijo",
         "tags": [
-            "abstract"
+            "illustration"
         ]
     },
     {
@@ -17983,6 +19465,12 @@
     },
     {
         "artist": "Rich Davies",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Rich Larson",
         "tags": [
             "abstract"
         ]
@@ -18252,9 +19740,9 @@
         ]
     },
     {
-        "artist": "ROA",
+        "artist": "River Cousin",
         "tags": [
-            "street art"
+            "abstract"
         ]
     },
     {
@@ -18297,6 +19785,18 @@
         "artist": "Robby Cavanaugh",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Robert A. Heinlein",
+        "tags": [
+            "sci-fi"
+        ]
+    },
+    {
+        "artist": "Robert Abbett",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -18366,6 +19866,12 @@
         ]
     },
     {
+        "artist": "Robert Gibbings",
+        "tags": [
+            "woodcut"
+        ]
+    },
+    {
         "artist": "Robert Gillmor",
         "tags": [
             "landscape"
@@ -18381,6 +19887,12 @@
         "artist": "Robert Henri",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Robert Hoppe",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -18402,9 +19914,21 @@
         ]
     },
     {
+        "artist": "Robert Kanigher",
+        "tags": [
+            "comic"
+        ]
+    },
+    {
         "artist": "Robert Kirkman",
         "tags": [
             "comic"
+        ]
+    },
+    {
+        "artist": "Robert Kline",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -18429,6 +19953,12 @@
         "artist": "Robert McCall",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Robert McGinnis",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -18534,7 +20064,19 @@
         ]
     },
     {
+        "artist": "Robin Isley",
+        "tags": [
+            "r&b"
+        ]
+    },
+    {
         "artist": "Robin Moline",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Robin Tran",
         "tags": [
             "abstract"
         ]
@@ -18564,7 +20106,7 @@
         ]
     },
     {
-        "artist": "Rodr\u00edguez ARS",
+        "artist": "Rodríguez ARS",
         "tags": [
             "abstract"
         ]
@@ -18573,12 +20115,6 @@
         "artist": "Roger Ballen",
         "tags": [
             "photographer"
-        ]
-    },
-    {
-        "artist": "Roger de La Fresnaye",
-        "tags": [
-            "cubism"
         ]
     },
     {
@@ -18591,6 +20127,12 @@
         "artist": "Roger Dean",
         "tags": [
             "fantasy"
+        ]
+    },
+    {
+        "artist": "Roger de La Fresnaye",
+        "tags": [
+            "cubism"
         ]
     },
     {
@@ -18651,6 +20193,12 @@
         "artist": "Ron Arad",
         "tags": [
             "sculpture"
+        ]
+    },
+    {
+        "artist": "Ron Cobb",
+        "tags": [
+            "cartoonist"
         ]
     },
     {
@@ -18732,6 +20280,12 @@
         ]
     },
     {
+        "artist": "Rosalyn Drexler",
+        "tags": [
+            "pop art"
+        ]
+    },
+    {
         "artist": "Rose Wylie",
         "tags": [
             "abstract"
@@ -18786,7 +20340,7 @@
         ]
     },
     {
-        "artist": "Rub\u00e9n Maya",
+        "artist": "Rubén Maya",
         "tags": [
             "abstract"
         ]
@@ -18807,6 +20361,12 @@
         "artist": "Rudolf Hausner",
         "tags": [
             "expressionism"
+        ]
+    },
+    {
+        "artist": "Rudolf Sieber Lonati",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -18972,7 +20532,7 @@
         ]
     },
     {
-        "artist": "Sakai Ho\u0304itsu",
+        "artist": "Sakai Hōitsu",
         "tags": [
             "ukiyo-e"
         ]
@@ -18981,6 +20541,12 @@
         "artist": "Sakimichan",
         "tags": [
             "digital art"
+        ]
+    },
+    {
+        "artist": "Sal Abbinanti",
+        "tags": [
+            "comic"
         ]
     },
     {
@@ -19008,7 +20574,7 @@
         ]
     },
     {
-        "artist": "Salvador Dal\u00ed",
+        "artist": "Salvador Dalí",
         "tags": [
             "surrealism"
         ]
@@ -19080,9 +20646,9 @@
         ]
     },
     {
-        "artist": "Samuel and Joseph Newsom",
+        "artist": "Samson Pollen",
         "tags": [
-            "folk art"
+            "abstract"
         ]
     },
     {
@@ -19113,6 +20679,12 @@
         "artist": "Samuel Smith",
         "tags": [
             "unknown"
+        ]
+    },
+    {
+        "artist": "Samuel and Joseph Newsom",
+        "tags": [
+            "folk art"
         ]
     },
     {
@@ -19266,7 +20838,7 @@
         ]
     },
     {
-        "artist": "Saturno Butt\u00f2",
+        "artist": "Saturno Buttò",
         "tags": [
             "surrealism"
         ]
@@ -19302,9 +20874,21 @@
         ]
     },
     {
+        "artist": "Sayumi Kudo",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Scarlett Hooft Graafland",
         "tags": [
             "photographer"
+        ]
+    },
+    {
+        "artist": "Schim Schimmel",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -19380,6 +20964,12 @@
         ]
     },
     {
+        "artist": "Sean Raiko Tay",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Sean Scully",
         "tags": [
             "abstract"
@@ -19440,19 +21030,25 @@
         ]
     },
     {
+        "artist": "Serge Pellé",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Sergey Musin",
         "tags": [
             "realism"
         ]
     },
     {
-        "artist": "Sergio Aragon\u00e9s",
+        "artist": "Sergio Aragonés",
         "tags": [
             "cartoonist"
         ]
     },
     {
-        "artist": "Sergio Larra\u00edn",
+        "artist": "Sergio Larraín",
         "tags": [
             "photographer"
         ]
@@ -19644,7 +21240,13 @@
         ]
     },
     {
-        "artist": "Simon Holl\u00f3sy",
+        "artist": "Simon Fetscher",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Simon Hollósy",
         "tags": [
             "impressionism"
         ]
@@ -19662,9 +21264,15 @@
         ]
     },
     {
-        "artist": "Simon St\u00e5lenhag",
+        "artist": "Simon Stålenhag",
         "tags": [
             "sci-fi"
+        ]
+    },
+    {
+        "artist": "Simon Vanderlaan",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -19683,6 +21291,12 @@
         "artist": "Simone Martini",
         "tags": [
             "gothic"
+        ]
+    },
+    {
+        "artist": "Sir Arthur Conan Doyle",
+        "tags": [
+            "writer"
         ]
     },
     {
@@ -19731,6 +21345,12 @@
         "artist": "Sol LeWitt",
         "tags": [
             "minimalism"
+        ]
+    },
+    {
+        "artist": "Solomon Joseph Solomon",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -19818,21 +21438,27 @@
         ]
     },
     {
-        "artist": "Stanis\u0142aw Ignacy Witkiewicz",
+        "artist": "Stanisław Ignacy Witkiewicz",
         "tags": [
             "symbolism"
         ]
     },
     {
-        "artist": "Stanis\u0142aw Szukalski",
+        "artist": "Stanisław Szukalski",
         "tags": [
             "expressionism"
         ]
     },
     {
-        "artist": "Stanis\u0142aw Wyspia\u0144ski",
+        "artist": "Stanisław Wyspiański",
         "tags": [
             "symbolism"
+        ]
+    },
+    {
+        "artist": "Stanley Borack",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -19878,13 +21504,19 @@
         ]
     },
     {
+        "artist": "Stefan Koidl",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Stefan Kostic",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "Stephan Martini\u00e8re",
+        "artist": "Stephan Martinière",
         "tags": [
             "fantasy"
         ]
@@ -19920,6 +21552,12 @@
         ]
     },
     {
+        "artist": "Stephen Fabian",
+        "tags": [
+            "fantasy"
+        ]
+    },
+    {
         "artist": "Stephen Gammell",
         "tags": [
             "illustration"
@@ -19950,6 +21588,18 @@
         ]
     },
     {
+        "artist": "Stephen Miller",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Stephen Mopope",
+        "tags": [
+            "native american"
+        ]
+    },
+    {
         "artist": "Stephen Oakley",
         "tags": [
             "abstract"
@@ -19977,6 +21627,12 @@
         "artist": "Stephen Shortridge",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Stephen Wilkes",
+        "tags": [
+            "photographer"
         ]
     },
     {
@@ -20022,6 +21678,12 @@
         ]
     },
     {
+        "artist": "Steve Fastner",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "Steve Hanks",
         "tags": [
             "realism"
@@ -20064,6 +21726,12 @@
         ]
     },
     {
+        "artist": "Steven Heller",
+        "tags": [
+            "graphic design"
+        ]
+    },
+    {
         "artist": "Steven Holl",
         "tags": [
             "architecture"
@@ -20085,6 +21753,18 @@
         "artist": "Steven Outram",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Steven Vincent Johnson",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Stewart Cowley",
+        "tags": [
+            "fantasy"
         ]
     },
     {
@@ -20160,6 +21840,12 @@
         ]
     },
     {
+        "artist": "Sulamith Wülfing",
+        "tags": [
+            "fantasy"
+        ]
+    },
+    {
         "artist": "Sultan Mohammed",
         "tags": [
             "islamic art"
@@ -20187,6 +21873,18 @@
         "artist": "Susan Seddon Boulet",
         "tags": [
             "fantasy"
+        ]
+    },
+    {
+        "artist": "Susan Weil",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Susie M. Barstow",
+        "tags": [
+            "unknown"
         ]
     },
     {
@@ -20226,6 +21924,12 @@
         ]
     },
     {
+        "artist": "Sy Thomas",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Syd Mead",
         "tags": [
             "futurism"
@@ -20256,13 +21960,19 @@
         ]
     },
     {
+        "artist": "TJ Drysdale",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Tadao Ando",
         "tags": [
             "modernism"
         ]
     },
     {
-        "artist": "Taiy\u014d Matsumoto",
+        "artist": "Taiyō Matsumoto",
         "tags": [
             "manga"
         ]
@@ -20301,6 +22011,12 @@
         "artist": "Takeshi Obata",
         "tags": [
             "manga"
+        ]
+    },
+    {
+        "artist": "Takuhito Kusanagi",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -20364,13 +22080,13 @@
         ]
     },
     {
-        "artist": "Tari Ma\u0301rk Da\u0301vid",
+        "artist": "Tari Márk Dávid",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "Tar\u014d Okamoto",
+        "artist": "Tarō Okamoto",
         "tags": [
             "abstract"
         ]
@@ -20412,12 +22128,6 @@
         ]
     },
     {
-        "artist": "teamLab",
-        "tags": [
-            "digital art"
-        ]
-    },
-    {
         "artist": "Ted Nasmith",
         "tags": [
             "fantasy"
@@ -20433,6 +22143,12 @@
         "artist": "Temmie Chang",
         "tags": [
             "illustration"
+        ]
+    },
+    {
+        "artist": "Teodor Axentowicz",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -20514,12 +22230,6 @@
         ]
     },
     {
-        "artist": "theCHAMBA",
-        "tags": [
-            "street art"
-        ]
-    },
-    {
         "artist": "Theo Prins",
         "tags": [
             "abstract"
@@ -20535,6 +22245,12 @@
         "artist": "Theo van Rysselberghe",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Theodor Kittelsen",
+        "tags": [
+            "fantasy"
         ]
     },
     {
@@ -20634,6 +22350,12 @@
         ]
     },
     {
+        "artist": "Thomas Francis Dicksee",
+        "tags": [
+            "romanticism"
+        ]
+    },
+    {
         "artist": "Thomas Gainsborough",
         "tags": [
             "portraiture"
@@ -20658,7 +22380,7 @@
         ]
     },
     {
-        "artist": "Thomas H\u00e4fner",
+        "artist": "Thomas Häfner",
         "tags": [
             "abstract"
         ]
@@ -20760,25 +22482,31 @@
         ]
     },
     {
-        "artist": "Th\u00e9odore Chass\u00e9riau",
-        "tags": [
-            "romanticism"
-        ]
-    },
-    {
-        "artist": "Th\u00e9odore G\u00e9ricault",
-        "tags": [
-            "romanticism"
-        ]
-    },
-    {
-        "artist": "Th\u00e9ophile Schuler",
+        "artist": "Théo van Rysselberghe",
         "tags": [
             "impressionism"
         ]
     },
     {
-        "artist": "Th\u00e9ophile Steinlen",
+        "artist": "Théodore Chassériau",
+        "tags": [
+            "romanticism"
+        ]
+    },
+    {
+        "artist": "Théodore Géricault",
+        "tags": [
+            "romanticism"
+        ]
+    },
+    {
+        "artist": "Théophile Schuler",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
+        "artist": "Théophile Steinlen",
         "tags": [
             "realism"
         ]
@@ -20826,6 +22554,12 @@
         ]
     },
     {
+        "artist": "Tim Gill",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Tim Hawkinson",
         "tags": [
             "sculpture"
@@ -20841,6 +22575,12 @@
         "artist": "Tim Holtz",
         "tags": [
             "mixed-media"
+        ]
+    },
+    {
+        "artist": "Tim Kirk",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -20898,15 +22638,9 @@
         ]
     },
     {
-        "artist": "Tivadar Csontv\u00e1ry Kosztka",
+        "artist": "Tivadar Csontváry Kosztka",
         "tags": [
             "impressionism"
-        ]
-    },
-    {
-        "artist": "TJ Drysdale",
-        "tags": [
-            "abstract"
         ]
     },
     {
@@ -20964,12 +22698,6 @@
         ]
     },
     {
-        "artist": "tokyogenso",
-        "tags": [
-            "abstract"
-        ]
-    },
-    {
         "artist": "Tom Bagshaw",
         "tags": [
             "fantasy"
@@ -21018,6 +22746,12 @@
         ]
     },
     {
+        "artist": "Tom Kidd",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
         "artist": "Tom Killion",
         "tags": [
             "photographer"
@@ -21039,12 +22773,6 @@
         "artist": "Tom McGuinness",
         "tags": [
             "abstract"
-        ]
-    },
-    {
-        "artist": "Tom of Finland",
-        "tags": [
-            "erotic"
         ]
     },
     {
@@ -21072,9 +22800,15 @@
         ]
     },
     {
-        "artist": "Tom W\u00e4nerstrand",
+        "artist": "Tom Wänerstrand",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Tom of Finland",
+        "tags": [
+            "erotic"
         ]
     },
     {
@@ -21120,13 +22854,13 @@
         ]
     },
     {
-        "artist": "Tom\u00e0s Barcel\u00f3",
+        "artist": "Tomàs Barceló",
         "tags": [
             "abstract"
         ]
     },
     {
-        "artist": "Tom\u00e1s Saraceno",
+        "artist": "Tomás Saraceno",
         "tags": [
             "installation"
         ]
@@ -21141,6 +22875,12 @@
         "artist": "Toni Frissell",
         "tags": [
             "photographer"
+        ]
+    },
+    {
+        "artist": "Tony Abeyta",
+        "tags": [
+            "native american"
         ]
     },
     {
@@ -21300,6 +23040,12 @@
         ]
     },
     {
+        "artist": "Trevor Webb",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Trish Mistric",
         "tags": [
             "abstract"
@@ -21309,6 +23055,12 @@
         "artist": "Tristan Eaton",
         "tags": [
             "pop art"
+        ]
+    },
+    {
+        "artist": "Tristan Elwell",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -21339,6 +23091,12 @@
         "artist": "Tsuguharu Foujita",
         "tags": [
             "cubism"
+        ]
+    },
+    {
+        "artist": "Tsuneo Sanda",
+        "tags": [
+            "illustration"
         ]
     },
     {
@@ -21414,9 +23172,15 @@
         ]
     },
     {
-        "artist": "Unica Z\u00fcrn",
+        "artist": "Unica Zürn",
         "tags": [
             "surrealism"
+        ]
+    },
+    {
+        "artist": "Uriel Dana",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -21444,12 +23208,6 @@
         ]
     },
     {
-        "artist": "Valentin de Boulogne",
-        "tags": [
-            "baroque"
-        ]
-    },
-    {
         "artist": "Valentin Rekunenko",
         "tags": [
             "abstract"
@@ -21459,6 +23217,12 @@
         "artist": "Valentin Serov",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "Valentin de Boulogne",
+        "tags": [
+            "baroque"
         ]
     },
     {
@@ -21498,7 +23262,7 @@
         ]
     },
     {
-        "artist": "ValheIm Hammersh\u00f8i",
+        "artist": "ValheIm Hammershøi",
         "tags": [
             "impressionism"
         ]
@@ -21513,6 +23277,12 @@
         "artist": "Vanessa Bell",
         "tags": [
             "post-impressionism"
+        ]
+    },
+    {
+        "artist": "Vanessa Lemen",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -21561,6 +23331,12 @@
         "artist": "Vhils",
         "tags": [
             "street art"
+        ]
+    },
+    {
+        "artist": "Vicente Alcazar",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -21642,6 +23418,12 @@
         ]
     },
     {
+        "artist": "Victor Valla",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Victor Vasarely",
         "tags": [
             "optical art"
@@ -21654,7 +23436,7 @@
         ]
     },
     {
-        "artist": "Victoria Franc\u00e9s",
+        "artist": "Victoria Francés",
         "tags": [
             "fantasy"
         ]
@@ -21672,7 +23454,7 @@
         ]
     },
     {
-        "artist": "Victorina Dur\u00e1n",
+        "artist": "Victorina Durán",
         "tags": [
             "abstract"
         ]
@@ -21732,7 +23514,19 @@
         ]
     },
     {
+        "artist": "Vincent Disederio",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Vincent Lefevre",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
+        "artist": "Vincent Mallié",
         "tags": [
             "impressionism"
         ]
@@ -21852,6 +23646,12 @@
         ]
     },
     {
+        "artist": "WLOP",
+        "tags": [
+            "digital art"
+        ]
+    },
+    {
         "artist": "Wade Guyton",
         "tags": [
             "minimalism"
@@ -21870,6 +23670,12 @@
         ]
     },
     {
+        "artist": "Wallace Polsom",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "Walt Disney",
         "tags": [
             "animation"
@@ -21885,6 +23691,12 @@
         "artist": "Walter Battiss",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "Walter Baumhofer",
+        "tags": [
+            "realism"
         ]
     },
     {
@@ -22008,6 +23820,12 @@
         ]
     },
     {
+        "artist": "Wayne Reynolds",
+        "tags": [
+            "fantasy"
+        ]
+    },
+    {
         "artist": "Wayne Thiebaud",
         "tags": [
             "realism"
@@ -22050,7 +23868,13 @@
         ]
     },
     {
-        "artist": "Wilhelm Kotarbi\u0144ski",
+        "artist": "Wilhelm Bernatzik",
+        "tags": [
+            "expressionism"
+        ]
+    },
+    {
+        "artist": "Wilhelm Kotarbiński",
         "tags": [
             "impressionism"
         ]
@@ -22086,12 +23910,6 @@
         ]
     },
     {
-        "artist": "Willem de Kooning",
-        "tags": [
-            "abstract expressionism"
-        ]
-    },
-    {
         "artist": "Willem Haenraets",
         "tags": [
             "impressionism"
@@ -22110,6 +23928,12 @@
         ]
     },
     {
+        "artist": "Willem de Kooning",
+        "tags": [
+            "abstract expressionism"
+        ]
+    },
+    {
         "artist": "Willem van Aelst",
         "tags": [
             "baroque"
@@ -22125,6 +23949,18 @@
         "artist": "Willi Baumeister",
         "tags": [
             "abstract"
+        ]
+    },
+    {
+        "artist": "William Barak",
+        "tags": [
+            "indigenous"
+        ]
+    },
+    {
+        "artist": "William Blair Bruce",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -22167,6 +24003,12 @@
         "artist": "William Gropper",
         "tags": [
             "realism"
+        ]
+    },
+    {
+        "artist": "William Henry Barribal",
+        "tags": [
+            "impressionism"
         ]
     },
     {
@@ -22290,6 +24132,12 @@
         ]
     },
     {
+        "artist": "William Teason",
+        "tags": [
+            "impressionism"
+        ]
+    },
+    {
         "artist": "William Timlin",
         "tags": [
             "illustration"
@@ -22386,12 +24234,6 @@
         ]
     },
     {
-        "artist": "WLOP",
-        "tags": [
-            "digital art"
-        ]
-    },
-    {
         "artist": "Wojciech Ostrycharz",
         "tags": [
             "abstract"
@@ -22404,9 +24246,21 @@
         ]
     },
     {
+        "artist": "Wojtek Siudmak",
+        "tags": [
+            "surrealism"
+        ]
+    },
+    {
         "artist": "Wolf Kahn",
         "tags": [
             "impressionism"
+        ]
+    },
+    {
+        "artist": "Wolf Vostell",
+        "tags": [
+            "fluxus"
         ]
     },
     {
@@ -22440,6 +24294,12 @@
         ]
     },
     {
+        "artist": "Woody Crumbo",
+        "tags": [
+            "native american"
+        ]
+    },
+    {
         "artist": "Worthington Whittredge",
         "tags": [
             "landscape"
@@ -22452,7 +24312,7 @@
         ]
     },
     {
-        "artist": "W\u00e4in\u00f6 Aaltonen",
+        "artist": "Wäinö Aaltonen",
         "tags": [
             "realism"
         ]
@@ -22461,6 +24321,12 @@
         "artist": "Xanti Schawinsky",
         "tags": [
             "constructivism"
+        ]
+    },
+    {
+        "artist": "Xi Jiu",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -22650,6 +24516,12 @@
         ]
     },
     {
+        "artist": "Yukio Kitta",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
         "artist": "Yuko Shimizu",
         "tags": [
             "illustration"
@@ -22665,6 +24537,12 @@
         "artist": "Yumihiko Amano",
         "tags": [
             "illustration"
+        ]
+    },
+    {
+        "artist": "Yumikrum",
+        "tags": [
+            "abstract"
         ]
     },
     {
@@ -22710,6 +24588,12 @@
         ]
     },
     {
+        "artist": "Yvonne Jacquette",
+        "tags": [
+            "realism"
+        ]
+    },
+    {
         "artist": "Zacharias Martin Aagaard",
         "tags": [
             "abstract"
@@ -22734,7 +24618,7 @@
         ]
     },
     {
-        "artist": "Zdzis\u0142aw Beksi\u0144ski",
+        "artist": "Zdzisław Beksiński",
         "tags": [
             "surrealism"
         ]
@@ -22806,43 +24690,79 @@
         ]
     },
     {
-        "artist": "\u00c9douard Vuillard",
+        "artist": "Zoey Frank",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Zoldos Marton",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "liquidcoco李奎德",
+        "tags": [
+            "illustration"
+        ]
+    },
+    {
+        "artist": "teamLab",
+        "tags": [
+            "digital art"
+        ]
+    },
+    {
+        "artist": "theCHAMBA",
+        "tags": [
+            "street art"
+        ]
+    },
+    {
+        "artist": "tokyogenso",
+        "tags": [
+            "abstract"
+        ]
+    },
+    {
+        "artist": "Édouard Vuillard",
         "tags": [
             "impressionism"
         ]
     },
     {
-        "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
+        "artist": "Élisabeth Vigée Le Brun",
         "tags": [
             "portraiture"
         ]
     },
     {
-        "artist": "\u00c9mile Bernard",
+        "artist": "Émile Bernard",
         "tags": [
             "post-impressionism"
         ]
     },
     {
-        "artist": "\u00c9mile Gall\u00e9",
+        "artist": "Émile Gallé",
         "tags": [
             "art nouveau"
         ]
     },
     {
-        "artist": "\u00c9tienne Adolphe Piot",
+        "artist": "Étienne Adolphe Piot",
         "tags": [
             "realism"
         ]
     },
     {
-        "artist": "\u00c9tienne Maurice Falconet",
+        "artist": "Étienne Maurice Falconet",
         "tags": [
             "rococo"
         ]
     },
     {
-        "artist": "\u0410\u0440\u0442\u0443\u0440 \u0421\u043a\u0438\u0436\u0430\u043b\u0438-\u0412\u0435\u0439\u0441",
+        "artist": "Артур Скижали-Вейс",
         "tags": [
             "impressionism"
         ]
