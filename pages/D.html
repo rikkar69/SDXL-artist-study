@@ -45,7 +45,7 @@ layout: default
     {% for image in site.static_files %}
         {% assign filename = image.name | remove: '.jpg' %}
         {% assign first_char = filename | slice: 0 | upcase %}
-        {% if image.path contains 'images' and first_char == letter %}
+        {% if image.path contains 'artists' and first_char == letter %}
             <div id="{{ image.name | remove: '.jpg' }}">
                 <p onclick="copyToClipboard(this)">{{ image.name | remove: '.jpg' }}</p>
                 <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
