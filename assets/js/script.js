@@ -137,21 +137,13 @@ function searchArtist() {
     }
     
 // Artist counter function
-var artistsFolder = 'assets/images/sdxl1.0/artists';
-
-fetch(artistsFolder)
-    .then(response => response.text())
-    .then(data => {
-        // Parse the HTML response to get the list of files
-        var parser = new DOMParser();
-        var doc = parser.parseFromString(data, 'text/html');
-        var files = Array.from(doc.getElementsByTagName('a')).map(a => a.href);
-
-        // Count the number of images
-        var numImages = files.filter(file => file.endsWith('.jpg') || file.endsWith('.png')).length;
-
-        // Update the HTML content
-        document.getElementById('number-of-artists').textContent = numImages;
-    })
-    .catch(error => console.error(error));    
+async function getImageCount() {
+    const response = await fetch('assets/image_count.txt');
+    const count = await response.text();
+    return count;
+  }
+  
+  getImageCount().then(count => {
+    document.getElementById('number-of-artists').textContent = count;
+  });  
     
