@@ -12,8 +12,9 @@ $on-large:         $on-laptop !default;
     padding-left: 30px;
 }
 .intro-text {
-    font-size: 12px;
+    font-size: 16px;
     color: #111;
+    text-align: center;
     margin-bottom: 20px; /* Add some space between the text and the alphabet navigation */
 }
 body {
@@ -218,9 +219,18 @@ p:hover::after {
   .tag.active {
     background-color: #5990cf; /* Change this to your preferred color */
   }  
-@media (max-width: 600px) {
+// @media (max-width: 600px) {
+//     .grid {
+//         grid-template-columns: repeat(2, 1fr); /* 2 columns for screens smaller than 600px */
+//     }
+// }
+@media (max-width: $on-palm) {
+    .alphabet-nav {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
     .grid {
         grid-template-columns: repeat(2, 1fr); /* 2 columns for screens smaller than 600px */
-    }
+        }
 }
 
