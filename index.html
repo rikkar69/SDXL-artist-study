@@ -48,7 +48,7 @@ title: Artist Studies
 
 <div class="grid">
     {% for image in site.static_files %}
-        {% if image.path contains 'artists' %}
+        {% if image.path contains 'assets/images/sdxl1.0/artists' %}
             <div id="{{ image.name | remove: '.jpg' }}">
                 <p onclick="copyToClipboard(this)">{{ image.name | remove: '.jpg' }}</p>
                 <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" loading="lazy">
