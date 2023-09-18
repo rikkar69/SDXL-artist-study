@@ -177,6 +177,16 @@ p:hover::after {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
+#clear-icon {
+    display: none;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 18px;  /* Adjust as needed */
+}
+
 #search-results {
     display: none;
     position: absolute;

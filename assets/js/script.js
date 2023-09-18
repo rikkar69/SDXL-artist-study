@@ -78,6 +78,8 @@ images.forEach(function(img, index) {
                 bigImg.src = images[prevIndex].src;
                 index = prevIndex;
                 updateLabel(index);
+            } else if (e.key === 'Escape') {  // Check if the 'Esc' key is pressed
+                expanded.remove();  // Close the image preview
             }
         });
         bigImg.addEventListener('click', function() {
@@ -112,11 +114,22 @@ function scrollToTop() {
     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 
+function removeDiacritics(str) {
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+}
+
 //filter results with search
 function searchArtist() {
-    var input = document.getElementById('search-bar').value.toLowerCase();
+    var input = removeDiacritics(document.getElementById('search-bar').value.toLowerCase());
     var gridDiv = document.querySelector('.grid');
-    
+    var clearIcon = document.getElementById('clear-icon');
+
+    // Show or hide the "x" icon based on input length
+    if (input.length > 0) {
+        clearIcon.style.display = 'inline';
+    } else {
+        clearIcon.style.display = 'none';
+    }
         // Only proceed if at least 3 characters are entered
     if (input.length < 3) {
             // Show all artists if less than 3 characters are entered
@@ -127,7 +140,7 @@ function searchArtist() {
         }
     
         gridDiv.querySelectorAll('div').forEach(function(div) {
-            var artistName = div.id.toLowerCase();
+            var artistName = removeDiacritics(div.id.toLowerCase());
             if (artistName.includes(input)) {
                 div.style.display = 'block';
             } else {
@@ -135,7 +148,36 @@ function searchArtist() {
             }
         });
     }
-    
+
+function clearSearch() {
+    var searchBar = document.getElementById('search-bar');
+    var clearIcon = document.getElementById('clear-icon');
+        
+    searchBar.value = '';
+    clearIcon.style.display = 'none';
+        
+    // Optionally, show all artists again
+    var gridDiv = document.querySelector('.grid');
+    gridDiv.querySelectorAll('div').forEach(function(div) {
+        div.style.display = 'block';
+        });
+}
+
+// Grab the search bar element
+var searchBar = document.getElementById('search-bar');
+
+// Add the event listener
+searchBar.addEventListener('keydown', function(event) {
+    // Check if the 'Escape' key was pressed
+    if (event.key === 'Escape') {
+        // Clear the search input
+        searchBar.value = '';
+        
+        // Clear the results or reset the view (you can call your clearSearch function)
+        clearSearch();
+    }
+});
+
 // Artist counter function
 async function getImageCount() {
     const response = await fetch('assets/image_count.txt');

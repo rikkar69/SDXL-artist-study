@@ -4,6 +4,7 @@ layout: default
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <div class="search-container">
     <input type="text" id="search-bar" placeholder="Search for an artist..." onkeyup="searchArtist()">
+    <span id="clear-icon" onclick="clearSearch()">×</span>
     <div id="search-results"></div>
 </div>
 
@@ -45,7 +46,7 @@ layout: default
     {% for image in site.static_files %}
         {% assign filename = image.name | remove: '.jpg' %}
         {% assign first_char = filename | slice: 0 | upcase %}
-        {% if image.path contains 'artists' and first_char == letter %}
+        {% if image.path contains 'assets/images/sdxl1.0/artists' and first_char == letter %}
             <div id="{{ image.name | remove: '.jpg' }}">
                 <p onclick="copyToClipboard(this)">{{ image.name | remove: '.jpg' }}</p>
                 <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
