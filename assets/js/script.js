@@ -120,7 +120,7 @@ function removeDiacritics(str) {
 
 //filter results with search
 function searchArtist() {
-    var input = removeDiacritics(document.getElementById('search-bar').value.toLowerCase());
+    var input = removeDiacritics(document.getElementById('search-bar').value.toLowerCase().trim());
     var gridDiv = document.querySelector('.grid');
     var clearIcon = document.getElementById('clear-icon');
 
